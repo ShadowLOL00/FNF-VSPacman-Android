@@ -6,4 +6,12 @@ mall
 mallEvil
 school
 schoolEvil
-tank
+arcade
+hideout
+maze
+mazeCopy
+mazered
+pachouse
+room
+schoolroof
+underground
