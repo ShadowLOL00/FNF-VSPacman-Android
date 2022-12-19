@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pinky blue shit.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pinky ALT 30000" x="0" y="0" width="392" height="386" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30001" x="0" y="0" width="392" height="386" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30002" x="396" y="0" width="392" height="383" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30003" x="396" y="0" width="392" height="383" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30004" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30005" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30006" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30007" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30008" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30009" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30010" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30011" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30012" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30013" x="792" y="0" width="392" height="382" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30014" x="1188" y="0" width="392" height="384" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30015" x="1188" y="0" width="392" height="384" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30016" x="1188" y="0" width="392" height="384" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30017" x="1584" y="0" width="392" height="385" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30018" x="1584" y="0" width="392" height="385" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30019" x="1980" y="0" width="449" height="448" frameX="0" frameY="-34" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30020" x="1980" y="0" width="449" height="448" frameX="0" frameY="-34" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30021" x="2433" y="0" width="437" height="474" frameX="0" frameY="-7" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30022" x="2433" y="0" width="437" height="474" frameX="0" frameY="-7" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30023" x="2874" y="0" width="422" height="489" frameX="0" frameY="0" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30024" x="3300" y="0" width="422" height="489" frameX="0" frameY="0" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30025" x="0" y="493" width="593" height="384" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30026" x="0" y="493" width="593" height="384" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30027" x="597" y="493" width="586" height="371" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30028" x="597" y="493" width="586" height="371" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30029" x="1187" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30030" x="1187" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30031" x="1775" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30032" x="1775" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30033" x="2363" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30034" x="2363" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30035" x="2951" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30036" x="2951" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30037" x="1775" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30038" x="1775" y="493" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30039" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30040" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30041" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30042" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30043" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30044" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30045" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30046" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30047" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30048" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30049" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30050" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30051" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30052" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30053" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30054" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30055" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30056" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30057" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30058" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30059" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30060" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinky ALT 30061" x="0" y="881" width="584" height="368" frameX="0" frameY="-100" frameWidth="593" frameHeight="489"/>
+	<SubTexture name="pinkyBLUEdown0000" x="588" y="881" width="411" height="340"/>
+	<SubTexture name="pinkyBLUEdown0001" x="588" y="881" width="411" height="340"/>
+	<SubTexture name="pinkyBLUEdown0002" x="1003" y="881" width="402" height="329" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0003" x="1003" y="881" width="402" height="329" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0004" x="1409" y="881" width="402" height="323" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0005" x="1409" y="881" width="402" height="323" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0006" x="1815" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0007" x="1815" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0008" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0009" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0010" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0011" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0012" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0013" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0014" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0015" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0016" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0017" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0018" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEdown0019" x="2221" y="881" width="402" height="320" frameX="0" frameY="0" frameWidth="411" frameHeight="340"/>
+	<SubTexture name="pinkyBLUEidle0000" x="2627" y="881" width="404" height="368"/>
+	<SubTexture name="pinkyBLUEidle0001" x="2627" y="881" width="404" height="368"/>
+	<SubTexture name="pinkyBLUEidle0002" x="3035" y="881" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0003" x="3035" y="881" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0004" x="3443" y="881" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0005" x="3443" y="881" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0006" x="0" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0007" x="0" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0008" x="408" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0009" x="408" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0010" x="408" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0011" x="408" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0012" x="408" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0013" x="408" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEidle0014" x="408" y="1253" width="404" height="367" frameX="0" frameY="0" frameWidth="404" frameHeight="368"/>
+	<SubTexture name="pinkyBLUEleft0000" x="816" y="1253" width="455" height="357" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0001" x="816" y="1253" width="455" height="357" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0002" x="1275" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0003" x="1275" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0004" x="1734" y="1253" width="455" height="367"/>
+	<SubTexture name="pinkyBLUEleft0005" x="1734" y="1253" width="455" height="367"/>
+	<SubTexture name="pinkyBLUEleft0006" x="2193" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0007" x="2193" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0008" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0009" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0010" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0011" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0012" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0013" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0014" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0015" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0016" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0017" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0018" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEleft0019" x="2652" y="1253" width="455" height="366" frameX="0" frameY="0" frameWidth="455" frameHeight="367"/>
+	<SubTexture name="pinkyBLUEright0000" x="3111" y="1253" width="429" height="359" frameX="0" frameY="0" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0001" x="3111" y="1253" width="429" height="359" frameX="0" frameY="0" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0002" x="3544" y="1253" width="429" height="364" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0003" x="3544" y="1253" width="429" height="364" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0004" x="0" y="1624" width="429" height="368" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0005" x="0" y="1624" width="429" height="368" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0006" x="433" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0007" x="433" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0008" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0009" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0010" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0011" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0012" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0013" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0014" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0015" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0016" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0017" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0018" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEright0019" x="866" y="1624" width="429" height="369" frameX="0" frameY="-3" frameWidth="429" frameHeight="372"/>
+	<SubTexture name="pinkyBLUEup0000" x="1299" y="1624" width="398" height="382" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0001" x="1299" y="1624" width="398" height="382" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0002" x="1701" y="1624" width="398" height="395" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0003" x="1701" y="1624" width="398" height="395" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0004" x="2103" y="1624" width="391" height="403" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0005" x="2103" y="1624" width="391" height="403" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0006" x="2498" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0007" x="2498" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0008" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0009" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0010" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0011" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0012" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0013" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0014" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0015" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0016" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0017" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0018" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+	<SubTexture name="pinkyBLUEup0019" x="2893" y="1624" width="391" height="405" frameX="0" frameY="0" frameWidth="398" frameHeight="405"/>
+</TextureAtlas>

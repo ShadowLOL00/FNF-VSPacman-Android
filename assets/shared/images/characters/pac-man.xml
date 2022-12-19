@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pac-man.png">
+<SubTexture name="PacIdleDance0000" x="0" y="0" width="382" height="404" frameX="0" frameY="0" frameWidth="382" frameHeight="404" />
+<SubTexture name="PacIdleDance0001" x="382" y="0" width="382" height="404" frameX="0" frameY="0" frameWidth="382" frameHeight="404" />
+<SubTexture name="PacIdleDance0002" x="764" y="0" width="382" height="404" frameX="0" frameY="0" frameWidth="382" frameHeight="404" />
+<SubTexture name="PacIdleDance0003" x="1146" y="0" width="382" height="404" frameX="0" frameY="0" frameWidth="382" frameHeight="404" />
+<SubTexture name="PacIdleDance0004" x="0" y="404" width="382" height="404" frameX="0" frameY="0" frameWidth="382" frameHeight="404" />
+<SubTexture name="PacForward0000" x="382" y="404" width="434" height="349" frameX="0" frameY="0" frameWidth="434" frameHeight="349" />
+<SubTexture name="PacForward0001" x="816" y="404" width="434" height="349" frameX="0" frameY="0" frameWidth="434" frameHeight="349" />
+<SubTexture name="PacForward0002" x="1250" y="404" width="434" height="349" frameX="0" frameY="0" frameWidth="434" frameHeight="349" />
+<SubTexture name="PacForward0003" x="0" y="808" width="434" height="349" frameX="0" frameY="0" frameWidth="434" frameHeight="349" />
+<SubTexture name="PacBack0000" x="434" y="808" width="464" height="366" frameX="0" frameY="0" frameWidth="464" frameHeight="366" />
+<SubTexture name="PacBack0001" x="898" y="808" width="464" height="366" frameX="0" frameY="0" frameWidth="464" frameHeight="366" />
+<SubTexture name="PacBack0002" x="1362" y="808" width="464" height="366" frameX="0" frameY="0" frameWidth="464" frameHeight="366" />
+<SubTexture name="PacBack0003" x="0" y="1174" width="464" height="366" frameX="0" frameY="0" frameWidth="464" frameHeight="366" />
+<SubTexture name="PacDown0000" x="464" y="1174" width="384" height="344" frameX="0" frameY="0" frameWidth="384" frameHeight="344" />
+<SubTexture name="PacDown0001" x="848" y="1174" width="384" height="344" frameX="0" frameY="0" frameWidth="384" frameHeight="344" />
+<SubTexture name="PacDown0002" x="1232" y="1174" width="384" height="344" frameX="0" frameY="0" frameWidth="384" frameHeight="344" />
+<SubTexture name="PacDown0003" x="0" y="1540" width="384" height="344" frameX="0" frameY="0" frameWidth="384" frameHeight="344" />
+<SubTexture name="PacUp0000" x="384" y="1540" width="454" height="469" frameX="0" frameY="0" frameWidth="454" frameHeight="469" />
+<SubTexture name="PacUp0001" x="838" y="1540" width="454" height="469" frameX="0" frameY="0" frameWidth="454" frameHeight="469" />
+<SubTexture name="PacUp0002" x="1292" y="1540" width="454" height="469" frameX="0" frameY="0" frameWidth="454" frameHeight="469" />
+<SubTexture name="PacUp0003" x="0" y="2009" width="454" height="469" frameX="0" frameY="0" frameWidth="454" frameHeight="469" />
+</TextureAtlas>

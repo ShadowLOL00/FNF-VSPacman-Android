@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pacmanEAT.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pacball0000" x="0" y="0" width="453" height="385" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0001" x="457" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0002" x="914" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0003" x="1371" y="0" width="453" height="387" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0004" x="1828" y="0" width="453" height="390" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0005" x="0" y="0" width="453" height="385" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0006" x="457" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0007" x="914" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0008" x="1371" y="0" width="453" height="387" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0009" x="1828" y="0" width="453" height="390" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0010" x="0" y="0" width="453" height="385" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0011" x="457" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0012" x="914" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0013" x="1371" y="0" width="453" height="387" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0014" x="1828" y="0" width="453" height="390" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0015" x="0" y="0" width="453" height="385" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0016" x="457" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0017" x="914" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0018" x="1371" y="0" width="453" height="387" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0019" x="1828" y="0" width="453" height="390" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0020" x="0" y="0" width="453" height="385" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0021" x="457" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0022" x="914" y="0" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0023" x="1371" y="0" width="453" height="387" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0024" x="1828" y="0" width="453" height="390" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0025" x="0" y="0" width="453" height="385" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0026" x="2285" y="0" width="453" height="387" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0027" x="2742" y="0" width="453" height="389" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0028" x="2742" y="0" width="453" height="389" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0029" x="3199" y="0" width="453" height="393" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0030" x="3199" y="0" width="453" height="393" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0031" x="0" y="397" width="453" height="388" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0032" x="457" y="397" width="453" height="223" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0033" x="914" y="397" width="453" height="222" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0034" x="1371" y="397" width="453" height="305" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0035" x="1371" y="397" width="453" height="305" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0036" x="1828" y="397" width="453" height="299" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0037" x="1828" y="397" width="453" height="299" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0038" x="1828" y="397" width="453" height="299" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0039" x="1828" y="397" width="453" height="299" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0040" x="1828" y="397" width="453" height="299" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0041" x="2285" y="397" width="453" height="301" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0042" x="2285" y="397" width="453" height="301" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0043" x="2285" y="397" width="453" height="301" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0044" x="2742" y="397" width="453" height="311" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0045" x="3199" y="397" width="453" height="355" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0046" x="3199" y="397" width="453" height="355" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0047" x="0" y="789" width="453" height="476"/>
+	<SubTexture name="pacball0048" x="0" y="789" width="453" height="476"/>
+	<SubTexture name="pacball0049" x="457" y="789" width="453" height="467" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0050" x="457" y="789" width="453" height="467" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0051" x="914" y="789" width="453" height="462" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0052" x="914" y="789" width="453" height="462" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0053" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0054" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0055" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0056" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0057" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0058" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0059" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0060" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0061" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0062" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0063" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0064" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0065" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0066" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0067" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacball0068" x="1371" y="789" width="453" height="461" frameX="0" frameY="0" frameWidth="453" frameHeight="476"/>
+	<SubTexture name="pacdude eat0000" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0001" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0002" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0003" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0004" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0005" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0006" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0007" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0008" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0009" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0010" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0011" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0012" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude eat0013" x="1828" y="789" width="442" height="344"/>
+	<SubTexture name="pacdude idle0000" x="2274" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0001" x="2274" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0002" x="2655" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0003" x="2655" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0004" x="3036" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0005" x="3036" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0006" x="3417" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0007" x="3417" y="789" width="377" height="271"/>
+	<SubTexture name="pacdude idle0008" x="0" y="1269" width="377" height="271"/>
+	<SubTexture name="pacdude idle0009" x="0" y="1269" width="377" height="271"/>
+	<SubTexture name="pacdude idle0010" x="0" y="1269" width="377" height="271"/>
+	<SubTexture name="pacdude idle0011" x="0" y="1269" width="377" height="271"/>
+	<SubTexture name="pacdude idle0012" x="0" y="1269" width="377" height="271"/>
+	<SubTexture name="pacdude idle0013" x="0" y="1269" width="377" height="271"/>
+	<SubTexture name="pacdude jump0000" x="381" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0001" x="381" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0002" x="723" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0003" x="723" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0004" x="1065" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0005" x="1065" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0006" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0007" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0008" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0009" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0010" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0011" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0012" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0013" x="1407" y="1269" width="338" height="412" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0014" x="1749" y="1269" width="338" height="360" frameX="0" frameY="0" frameWidth="338" frameHeight="491"/>
+	<SubTexture name="pacdude jump0015" x="2091" y="1269" width="338" height="279" frameX="0" frameY="-79" frameWidth="338" frameHeight="491"/>
+</TextureAtlas>

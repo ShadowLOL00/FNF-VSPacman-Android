@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="roommates1-assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mate1BAD0000" x="0" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0001" x="0" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0002" x="391" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0003" x="391" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0004" x="782" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0005" x="782" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0006" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0007" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0008" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0009" x="1955" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0010" x="1955" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0011" x="782" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0012" x="782" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0013" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0014" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0015" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0016" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0017" x="1955" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0018" x="1955" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0019" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0020" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0021" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0022" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0023" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0024" x="2737" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0025" x="2737" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0026" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0027" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0028" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0029" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0030" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0031" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0032" x="2737" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0033" x="2737" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0034" x="391" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0035" x="391" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0036" x="391" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0037" x="782" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0038" x="782" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0039" x="3128" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0040" x="3128" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0041" x="3128" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0042" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0043" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0044" x="1173" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0045" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0046" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0047" x="1564" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0048" x="1955" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0049" x="1955" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0050" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0051" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0052" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0053" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0054" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0055" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0056" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0057" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0058" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0059" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0060" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0061" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0062" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0063" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0064" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0065" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0066" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0067" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0068" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0069" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0070" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0071" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0072" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0073" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0074" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0075" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0076" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0077" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0078" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0079" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0080" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0081" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0082" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0083" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0084" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0085" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0086" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0087" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0088" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0089" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0090" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0091" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0092" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0093" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0094" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0095" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0096" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0097" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0098" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0099" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0100" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0101" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0102" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0103" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1BAD0104" x="2346" y="0" width="387" height="581"/>
+	<SubTexture name="mate1down0000" x="3519" y="0" width="434" height="539"/>
+	<SubTexture name="mate1down0001" x="3519" y="0" width="434" height="539"/>
+	<SubTexture name="mate1down0002" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0003" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0004" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0005" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0006" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0007" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0008" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0009" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0010" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0011" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0012" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down0013" x="0" y="585" width="422" height="539" frameX="-6" frameY="0" frameWidth="434" frameHeight="539"/>
+	<SubTexture name="mate1down MISS0000" x="426" y="585" width="422" height="533" frameX="0" frameY="-4" frameWidth="422" frameHeight="537"/>
+	<SubTexture name="mate1down MISS0001" x="426" y="585" width="422" height="533" frameX="0" frameY="-4" frameWidth="422" frameHeight="537"/>
+	<SubTexture name="mate1down MISS0002" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0003" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0004" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0005" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0006" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0007" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0008" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0009" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0010" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0011" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0012" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0013" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0014" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0015" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0016" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0017" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0018" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0019" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0020" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0021" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0022" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0023" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0024" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0025" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0026" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0027" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0028" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0029" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0030" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0031" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0032" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0033" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1down MISS0034" x="852" y="585" width="422" height="537"/>
+	<SubTexture name="mate1idle0000" x="1278" y="585" width="425" height="551" frameX="0" frameY="-13" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0001" x="1278" y="585" width="425" height="551" frameX="0" frameY="-13" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0002" x="1707" y="585" width="413" height="554" frameX="-6" frameY="-10" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0003" x="1707" y="585" width="413" height="554" frameX="-6" frameY="-10" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0004" x="2124" y="585" width="407" height="560" frameX="-8" frameY="-4" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0005" x="2124" y="585" width="407" height="560" frameX="-8" frameY="-4" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0006" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0007" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0008" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0009" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0010" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0011" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0012" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1idle0013" x="2535" y="585" width="407" height="564" frameX="-8" frameY="0" frameWidth="425" frameHeight="564"/>
+	<SubTexture name="mate1left0000" x="2946" y="585" width="437" height="570"/>
+	<SubTexture name="mate1left0001" x="2946" y="585" width="437" height="570"/>
+	<SubTexture name="mate1left0002" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0003" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0004" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0005" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0006" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0007" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0008" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0009" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0010" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0011" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0012" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left0013" x="3387" y="585" width="434" height="565" frameX="-2" frameY="-5" frameWidth="437" frameHeight="570"/>
+	<SubTexture name="mate1left MISS0000" x="0" y="1159" width="432" height="565" frameX="-2" frameY="0" frameWidth="434" frameHeight="565"/>
+	<SubTexture name="mate1left MISS0001" x="0" y="1159" width="432" height="565" frameX="-2" frameY="0" frameWidth="434" frameHeight="565"/>
+	<SubTexture name="mate1left MISS0002" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0003" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0004" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0005" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0006" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0007" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0008" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0009" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0010" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0011" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0012" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0013" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0014" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0015" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0016" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0017" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0018" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0019" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0020" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0021" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0022" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0023" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0024" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0025" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0026" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0027" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0028" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0029" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0030" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0031" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0032" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1left MISS0033" x="436" y="1159" width="434" height="565"/>
+	<SubTexture name="mate1right0000" x="874" y="1159" width="445" height="566"/>
+	<SubTexture name="mate1right0001" x="874" y="1159" width="445" height="566"/>
+	<SubTexture name="mate1right0002" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0003" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0004" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0005" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0006" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0007" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0008" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0009" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0010" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0011" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0012" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right0013" x="1323" y="1159" width="435" height="564" frameX="-5" frameY="-2" frameWidth="445" frameHeight="566"/>
+	<SubTexture name="mate1right MISS0000" x="1762" y="1159" width="437" height="563" frameX="-2" frameY="0" frameWidth="441" frameHeight="564"/>
+	<SubTexture name="mate1right MISS0001" x="1762" y="1159" width="437" height="563" frameX="-2" frameY="0" frameWidth="441" frameHeight="564"/>
+	<SubTexture name="mate1right MISS0002" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0003" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0004" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0005" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0006" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0007" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0008" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0009" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0010" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0011" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0012" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0013" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0014" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0015" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0016" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0017" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0018" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0019" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0020" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0021" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0022" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0023" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0024" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0025" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0026" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0027" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0028" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0029" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0030" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0031" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0032" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0033" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1right MISS0034" x="2203" y="1159" width="441" height="564"/>
+	<SubTexture name="mate1up0000" x="2648" y="1159" width="383" height="603" frameX="-2" frameY="0" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0001" x="2648" y="1159" width="383" height="603" frameX="-2" frameY="0" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0002" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0003" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0004" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0005" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0006" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0007" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0008" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0009" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0010" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0011" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0012" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up0013" x="3035" y="1159" width="387" height="589" frameX="0" frameY="-14" frameWidth="387" frameHeight="603"/>
+	<SubTexture name="mate1up MISS0000" x="3426" y="1159" width="387" height="575" frameX="0" frameY="-2" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="mate1up MISS0001" x="3426" y="1159" width="387" height="575" frameX="0" frameY="-2" frameWidth="387" frameHeight="578"/>
+	<SubTexture name="mate1up MISS0002" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0003" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0004" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0005" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0006" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0007" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0008" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0009" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0010" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0011" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0012" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0013" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0014" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0015" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0016" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0017" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0018" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0019" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0020" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0021" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0022" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0023" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0024" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0025" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0026" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0027" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0028" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0029" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0030" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0031" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0032" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0033" x="0" y="1766" width="387" height="578"/>
+	<SubTexture name="mate1up MISS0034" x="0" y="1766" width="387" height="578"/>
+</TextureAtlas>

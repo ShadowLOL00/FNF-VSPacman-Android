@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="inky blue fuck.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inky ALT 30000" x="0" y="0" width="562" height="384" frameX="-13" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30001" x="0" y="0" width="562" height="384" frameX="-13" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30002" x="566" y="0" width="563" height="393" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30003" x="566" y="0" width="563" height="393" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30004" x="1133" y="0" width="563" height="395" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30005" x="1133" y="0" width="563" height="395" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30006" x="1133" y="0" width="563" height="395" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30007" x="1133" y="0" width="563" height="395" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30008" x="1700" y="0" width="563" height="396" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30009" x="1700" y="0" width="563" height="396" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30010" x="1700" y="0" width="563" height="396" frameX="-12" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30011" x="2267" y="0" width="562" height="394" frameX="-13" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30012" x="2267" y="0" width="562" height="394" frameX="-13" frameY="-62" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30013" x="2833" y="0" width="544" height="392" frameX="-31" frameY="-53" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30014" x="2833" y="0" width="544" height="392" frameX="-31" frameY="-53" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30015" x="2833" y="0" width="544" height="392" frameX="-31" frameY="-53" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30016" x="3381" y="0" width="547" height="406" frameX="-28" frameY="-31" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30017" x="3381" y="0" width="547" height="406" frameX="-28" frameY="-31" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30018" x="0" y="410" width="544" height="460" frameX="-31" frameY="-3" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30019" x="0" y="410" width="544" height="460" frameX="-31" frameY="-3" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30020" x="548" y="410" width="544" height="465" frameX="-31" frameY="0" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30021" x="548" y="410" width="544" height="465" frameX="-31" frameY="0" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30022" x="1096" y="410" width="544" height="463" frameX="-31" frameY="-2" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30023" x="1096" y="410" width="544" height="463" frameX="-31" frameY="-2" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30024" x="1644" y="410" width="544" height="452" frameX="-31" frameY="-13" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30025" x="2192" y="410" width="544" height="452" frameX="-31" frameY="-13" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30026" x="2740" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30027" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30028" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30029" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30030" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30031" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30032" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30033" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30034" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30035" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30036" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30037" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30038" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30039" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30040" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30041" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30042" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30043" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inky ALT 30044" x="3288" y="410" width="544" height="450" frameX="-31" frameY="-15" frameWidth="575" frameHeight="467"/>
+	<SubTexture name="inkyBLUEdown0000" x="0" y="879" width="473" height="371"/>
+	<SubTexture name="inkyBLUEdown0001" x="0" y="879" width="473" height="371"/>
+	<SubTexture name="inkyBLUEdown0002" x="477" y="879" width="473" height="370" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0003" x="477" y="879" width="473" height="370" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0004" x="954" y="879" width="473" height="370" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0005" x="954" y="879" width="473" height="370" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0006" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0007" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0008" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0009" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0010" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0011" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0012" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0013" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0014" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0015" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0016" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0017" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0018" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEdown0019" x="1431" y="879" width="473" height="369" frameX="0" frameY="0" frameWidth="473" frameHeight="371"/>
+	<SubTexture name="inkyBLUEidle0000" x="1908" y="879" width="433" height="362"/>
+	<SubTexture name="inkyBLUEidle0001" x="1908" y="879" width="433" height="362"/>
+	<SubTexture name="inkyBLUEidle0002" x="2345" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0003" x="2345" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0004" x="2782" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0005" x="2782" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0006" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0007" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0008" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0009" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0010" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0011" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0012" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEidle0013" x="3219" y="879" width="433" height="361" frameX="0" frameY="0" frameWidth="433" frameHeight="362"/>
+	<SubTexture name="inkyBLUEleft0000" x="0" y="1254" width="483" height="369" frameX="0" frameY="0" frameWidth="483" frameHeight="371"/>
+	<SubTexture name="inkyBLUEleft0001" x="0" y="1254" width="483" height="369" frameX="0" frameY="0" frameWidth="483" frameHeight="371"/>
+	<SubTexture name="inkyBLUEleft0002" x="487" y="1254" width="483" height="370" frameX="0" frameY="0" frameWidth="483" frameHeight="371"/>
+	<SubTexture name="inkyBLUEleft0003" x="487" y="1254" width="483" height="370" frameX="0" frameY="0" frameWidth="483" frameHeight="371"/>
+	<SubTexture name="inkyBLUEleft0004" x="974" y="1254" width="483" height="370" frameX="0" frameY="0" frameWidth="483" frameHeight="371"/>
+	<SubTexture name="inkyBLUEleft0005" x="974" y="1254" width="483" height="370" frameX="0" frameY="0" frameWidth="483" frameHeight="371"/>
+	<SubTexture name="inkyBLUEleft0006" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0007" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0008" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0009" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0010" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0011" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0012" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0013" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0014" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0015" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0016" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0017" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0018" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEleft0019" x="1461" y="1254" width="483" height="371"/>
+	<SubTexture name="inkyBLUEright0000" x="1948" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0001" x="1948" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0002" x="2460" y="1254" width="508" height="389"/>
+	<SubTexture name="inkyBLUEright0003" x="2460" y="1254" width="508" height="389"/>
+	<SubTexture name="inkyBLUEright0004" x="2972" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0005" x="2972" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0006" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0007" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0008" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0009" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0010" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0011" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0012" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0013" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0014" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0015" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0016" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0017" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0018" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEright0019" x="3484" y="1254" width="508" height="388" frameX="0" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="inkyBLUEup0000" x="0" y="1647" width="510" height="404" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0001" x="0" y="1647" width="510" height="404" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0002" x="514" y="1647" width="514" height="390" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0003" x="514" y="1647" width="514" height="390" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0004" x="1032" y="1647" width="517" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0005" x="1032" y="1647" width="517" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0006" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0007" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0008" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0009" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0010" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0011" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0012" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0013" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0014" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0015" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0016" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0017" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0018" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+	<SubTexture name="inkyBLUEup0019" x="1553" y="1647" width="518" height="384" frameX="0" frameY="0" frameWidth="518" frameHeight="404"/>
+</TextureAtlas>

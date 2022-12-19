@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="taizo_assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TAIZOdown0000" x="0" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0001" x="0" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0002" x="601" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0003" x="601" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0004" x="1202" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0005" x="1202" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0006" x="1803" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0007" x="1803" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0008" x="2404" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0009" x="2404" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0010" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0011" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0012" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0013" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0014" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0015" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0016" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0017" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0018" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOdown0019" x="3005" y="0" width="597" height="435"/>
+	<SubTexture name="TAIZOidle0000" x="3606" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0001" x="3606" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0002" x="4010" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0003" x="4010" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0004" x="4414" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0005" x="4414" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0006" x="4818" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0007" x="4818" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0008" x="5222" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0009" x="5222" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0010" x="5222" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0011" x="5222" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0012" x="5222" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOidle0013" x="5222" y="0" width="400" height="611"/>
+	<SubTexture name="TAIZOleft0000" x="5626" y="0" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0001" x="5626" y="0" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0002" x="6227" y="0" width="597" height="591"/>
+	<SubTexture name="TAIZOleft0003" x="6227" y="0" width="597" height="591"/>
+	<SubTexture name="TAIZOleft0004" x="6828" y="0" width="597" height="591"/>
+	<SubTexture name="TAIZOleft0005" x="6828" y="0" width="597" height="591"/>
+	<SubTexture name="TAIZOleft0006" x="7429" y="0" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0007" x="7429" y="0" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0008" x="0" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0009" x="0" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0010" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0011" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0012" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0013" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0014" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0015" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0016" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0017" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0018" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOleft0019" x="601" y="615" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOright0000" x="1202" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0001" x="1202" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0002" x="1776" y="615" width="570" height="583"/>
+	<SubTexture name="TAIZOright0003" x="1776" y="615" width="570" height="583"/>
+	<SubTexture name="TAIZOright0004" x="2350" y="615" width="570" height="583"/>
+	<SubTexture name="TAIZOright0005" x="2350" y="615" width="570" height="583"/>
+	<SubTexture name="TAIZOright0006" x="2924" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0007" x="2924" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0008" x="3498" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0009" x="3498" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0010" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0011" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0012" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0013" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0014" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0015" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0016" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0017" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0018" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOright0019" x="4072" y="615" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscareddown0000" x="4646" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0001" x="4646" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0002" x="5247" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0003" x="5247" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0004" x="5848" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0005" x="5848" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0006" x="6449" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0007" x="6449" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0008" x="7050" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0009" x="7050" y="615" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0010" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0011" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0012" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0013" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0014" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0015" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0016" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0017" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0018" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscareddown0019" x="0" y="1209" width="597" height="435"/>
+	<SubTexture name="TAIZOscaredidle0000" x="601" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0001" x="601" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0002" x="1005" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0003" x="1005" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0004" x="1409" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0005" x="1409" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0006" x="1813" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0007" x="1813" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0008" x="2217" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0009" x="2217" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0010" x="2217" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0011" x="2217" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0012" x="2217" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredidle0013" x="2217" y="1209" width="400" height="611"/>
+	<SubTexture name="TAIZOscaredleft0000" x="2621" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0001" x="2621" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0002" x="3222" y="1209" width="597" height="591"/>
+	<SubTexture name="TAIZOscaredleft0003" x="3222" y="1209" width="597" height="591"/>
+	<SubTexture name="TAIZOscaredleft0004" x="3823" y="1209" width="597" height="591"/>
+	<SubTexture name="TAIZOscaredleft0005" x="3823" y="1209" width="597" height="591"/>
+	<SubTexture name="TAIZOscaredleft0006" x="4424" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0007" x="4424" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0008" x="5025" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0009" x="5025" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0010" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0011" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0012" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0013" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0014" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0015" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0016" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0017" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0018" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredleft0019" x="5626" y="1209" width="597" height="590" frameX="0" frameY="0" frameWidth="597" frameHeight="591"/>
+	<SubTexture name="TAIZOscaredright0000" x="6227" y="1209" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0001" x="6227" y="1209" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0002" x="6801" y="1209" width="570" height="583"/>
+	<SubTexture name="TAIZOscaredright0003" x="6801" y="1209" width="570" height="583"/>
+	<SubTexture name="TAIZOscaredright0004" x="7375" y="1209" width="570" height="583"/>
+	<SubTexture name="TAIZOscaredright0005" x="7375" y="1209" width="570" height="583"/>
+	<SubTexture name="TAIZOscaredright0006" x="0" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0007" x="0" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0008" x="574" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0009" x="574" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0010" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0011" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0012" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0013" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0014" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0015" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0016" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0017" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0018" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredright0019" x="1148" y="1824" width="570" height="582" frameX="0" frameY="0" frameWidth="570" frameHeight="583"/>
+	<SubTexture name="TAIZOscaredup0000" x="1722" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0001" x="1722" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0002" x="2204" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0003" x="2204" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0004" x="2686" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0005" x="2686" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0006" x="3168" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0007" x="3168" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0008" x="3650" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0009" x="3650" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0010" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0011" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0012" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0013" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0014" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0015" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0016" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0017" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0018" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOscaredup0019" x="4132" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOshitting0000" x="4614" y="1824" width="400" height="611"/>
+	<SubTexture name="TAIZOshitting0001" x="4614" y="1824" width="400" height="611"/>
+	<SubTexture name="TAIZOshitting0002" x="4614" y="1824" width="400" height="611"/>
+	<SubTexture name="TAIZOshitting0003" x="4614" y="1824" width="400" height="611"/>
+	<SubTexture name="TAIZOshitting0004" x="4614" y="1824" width="400" height="611"/>
+	<SubTexture name="TAIZOup0000" x="5018" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0001" x="5018" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0002" x="5500" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0003" x="5500" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0004" x="5982" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0005" x="5982" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0006" x="6464" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0007" x="6464" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0008" x="6946" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0009" x="6946" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0010" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0011" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0012" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0013" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0014" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0015" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0016" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0017" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0018" x="7428" y="1824" width="478" height="677"/>
+	<SubTexture name="TAIZOup0019" x="7428" y="1824" width="478" height="677"/>
+</TextureAtlas>

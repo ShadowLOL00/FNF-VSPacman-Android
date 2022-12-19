@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blinky dinko.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blinky ALT0000" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0001" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0002" x="3823" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0003" x="3823" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0004" x="4264" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0005" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0006" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0007" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0008" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0009" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0010" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0011" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0012" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0013" x="5143" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0014" x="5143" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0015" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0016" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0017" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0018" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0019" x="5143" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0020" x="5143" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0021" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0022" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0023" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0024" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0025" x="4702" y="387" width="437" height="386" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0026" x="5581" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0027" x="5581" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0028" x="5581" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0029" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0030" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0031" x="3394" y="387" width="425" height="377" frameX="0" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0032" x="6019" y="387" width="436" height="386" frameX="-2" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0033" x="6019" y="387" width="436" height="386" frameX="-2" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0034" x="6019" y="387" width="436" height="386" frameX="-2" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0035" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0036" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0037" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0038" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0039" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0040" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0041" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0042" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0043" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0044" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0045" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT0046" x="6459" y="387" width="434" height="385" frameX="-1" frameY="0" frameWidth="438" frameHeight="386"/>
+	<SubTexture name="blinky ALT 20000" x="6897" y="387" width="396" height="379" frameX="-45" frameY="0" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20001" x="6897" y="387" width="396" height="379" frameX="-45" frameY="0" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20002" x="7297" y="387" width="397" height="382" frameX="-50" frameY="-3" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20003" x="0" y="795" width="515" height="397" frameX="-24" frameY="-30" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20004" x="0" y="795" width="515" height="397" frameX="-24" frameY="-30" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20005" x="519" y="795" width="518" height="389" frameX="-3" frameY="-20" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20006" x="519" y="795" width="518" height="389" frameX="-3" frameY="-20" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20007" x="1041" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20008" x="1041" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20009" x="1564" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20010" x="1564" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20011" x="2087" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20012" x="2087" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20013" x="2610" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20014" x="3133" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20015" x="3133" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20016" x="3656" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20017" x="3656" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20018" x="3656" y="795" width="519" height="388" frameX="0" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20019" x="4179" y="795" width="518" height="389" frameX="-2" frameY="-20" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20020" x="4179" y="795" width="518" height="389" frameX="-2" frameY="-20" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20021" x="4701" y="795" width="513" height="396" frameX="-24" frameY="-37" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20022" x="4701" y="795" width="513" height="396" frameX="-24" frameY="-37" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20023" x="5218" y="795" width="510" height="396" frameX="-30" frameY="-41" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20024" x="5218" y="795" width="510" height="396" frameX="-30" frameY="-41" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20025" x="5732" y="795" width="510" height="396" frameX="-30" frameY="-41" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20026" x="6246" y="795" width="508" height="397" frameX="-33" frameY="-42" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20027" x="6758" y="795" width="508" height="397" frameX="-33" frameY="-42" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20028" x="6758" y="795" width="508" height="397" frameX="-33" frameY="-42" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20029" x="7270" y="795" width="508" height="398" frameX="-36" frameY="-42" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20030" x="7270" y="795" width="508" height="398" frameX="-36" frameY="-42" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20031" x="0" y="1197" width="508" height="398" frameX="-38" frameY="-42" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20032" x="0" y="1197" width="508" height="398" frameX="-38" frameY="-42" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20033" x="512" y="1197" width="468" height="400" frameX="-49" frameY="-28" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20034" x="512" y="1197" width="468" height="400" frameX="-49" frameY="-28" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20035" x="984" y="1197" width="449" height="380" frameX="-69" frameY="-14" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20036" x="984" y="1197" width="449" height="380" frameX="-69" frameY="-14" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20037" x="1437" y="1197" width="476" height="387" frameX="-74" frameY="-2" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20038" x="1437" y="1197" width="476" height="387" frameX="-74" frameY="-2" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20039" x="1917" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20040" x="1917" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20041" x="2397" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20042" x="2877" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20043" x="2877" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20044" x="3357" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20045" x="3357" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20046" x="3357" y="1197" width="476" height="388" frameX="-74" frameY="-1" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20047" x="3837" y="1197" width="480" height="390" frameX="-76" frameY="-6" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20048" x="3837" y="1197" width="480" height="390" frameX="-76" frameY="-6" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20049" x="4321" y="1197" width="480" height="393" frameX="-78" frameY="-18" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20050" x="4805" y="1197" width="418" height="391" frameX="-91" frameY="-36" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20051" x="4805" y="1197" width="418" height="391" frameX="-91" frameY="-36" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20052" x="5227" y="1197" width="422" height="382" frameX="-90" frameY="-26" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20053" x="5227" y="1197" width="422" height="382" frameX="-90" frameY="-26" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20054" x="5653" y="1197" width="422" height="382" frameX="-90" frameY="-26" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20055" x="6079" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20056" x="6079" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20057" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20058" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20059" x="6941" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20060" x="6941" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20061" x="7372" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20062" x="7372" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20063" x="0" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20064" x="0" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20065" x="431" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20066" x="431" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20067" x="862" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20068" x="862" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20069" x="1293" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20070" x="1293" y="1601" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20071" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20072" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20073" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20074" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20075" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20076" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20077" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20078" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 20079" x="6510" y="1197" width="427" height="382" frameX="-89" frameY="-25" frameWidth="558" frameHeight="440"/>
+	<SubTexture name="blinky ALT 30000" x="1724" y="1601" width="552" height="418" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30001" x="1724" y="1601" width="552" height="418" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30002" x="1724" y="1601" width="552" height="418" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30003" x="1724" y="1601" width="552" height="418" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30004" x="1724" y="1601" width="552" height="418" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30005" x="1724" y="1601" width="552" height="418" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30006" x="2280" y="1601" width="552" height="420" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30007" x="2280" y="1601" width="552" height="420" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30008" x="2280" y="1601" width="552" height="420" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30009" x="2836" y="1601" width="552" height="422" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30010" x="2836" y="1601" width="552" height="422" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30011" x="3392" y="1601" width="552" height="419" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30012" x="3392" y="1601" width="552" height="419" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30013" x="3948" y="1601" width="552" height="432" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30014" x="4504" y="1601" width="590" height="443" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30015" x="4504" y="1601" width="590" height="443" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30016" x="5098" y="1601" width="576" height="440" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30017" x="5098" y="1601" width="576" height="440" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30018" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30019" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30020" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30021" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30022" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30023" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30024" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30025" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30026" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30027" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30028" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30029" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30030" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30031" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30032" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30033" x="5678" y="1601" width="572" height="439" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30034" x="6254" y="1601" width="568" height="440" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30035" x="6254" y="1601" width="568" height="440" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30036" x="6254" y="1601" width="568" height="440" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30037" x="6826" y="1601" width="552" height="445" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30038" x="6826" y="1601" width="552" height="445" frameX="-32" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30039" x="7382" y="1601" width="566" height="447" frameX="-18" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30040" x="7382" y="1601" width="566" height="447" frameX="-18" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30041" x="0" y="2052" width="569" height="423" frameX="-15" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30042" x="0" y="2052" width="569" height="423" frameX="-15" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30043" x="573" y="2052" width="562" height="410" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30044" x="573" y="2052" width="562" height="410" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30045" x="1139" y="2052" width="562" height="414" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30046" x="1139" y="2052" width="562" height="414" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30047" x="1705" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30048" x="1705" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30049" x="2271" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30050" x="2837" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30051" x="2837" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30052" x="3403" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30053" x="3403" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30054" x="3403" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30055" x="3403" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30056" x="3403" y="2052" width="562" height="415" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30057" x="3969" y="2052" width="562" height="411" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30058" x="3969" y="2052" width="562" height="411" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30059" x="4535" y="2052" width="562" height="411" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30060" x="5101" y="2052" width="562" height="420" frameX="-22" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30061" x="5667" y="2052" width="584" height="398" frameX="0" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30062" x="6255" y="2052" width="584" height="396" frameX="0" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30063" x="6843" y="2052" width="583" height="393" frameX="-1" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30064" x="7430" y="2052" width="583" height="393" frameX="-1" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30065" x="0" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30066" x="586" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30067" x="1172" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30068" x="1172" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30069" x="1758" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30070" x="2344" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30071" x="2344" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30072" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30073" x="3516" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30074" x="3516" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30075" x="4102" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30076" x="4102" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30077" x="4688" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30078" x="4688" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30079" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30080" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30081" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30082" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30083" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30084" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30085" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30086" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30087" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30088" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30089" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30090" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30091" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30092" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30093" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30094" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30095" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30096" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30097" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30098" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30099" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30100" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30101" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30102" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30103" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30104" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30105" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30106" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30107" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30108" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30109" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30110" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30111" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30112" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30113" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30114" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30115" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30116" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30117" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30118" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30119" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30120" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30121" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30122" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30123" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30124" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30125" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30126" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30127" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30128" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30129" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky ALT 30130" x="2930" y="2479" width="582" height="392" frameX="-2" frameY="0" frameWidth="622" frameHeight="447"/>
+	<SubTexture name="blinky down0000" x="0" y="0" width="428" height="337"/>
+	<SubTexture name="blinky down0001" x="0" y="0" width="428" height="337"/>
+	<SubTexture name="blinky down0002" x="432" y="0" width="428" height="330" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0003" x="432" y="0" width="428" height="330" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0004" x="864" y="0" width="428" height="327" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0005" x="864" y="0" width="428" height="327" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0006" x="1296" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0007" x="1296" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0008" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0009" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0010" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0011" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0012" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0013" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0014" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0015" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0016" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0017" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0018" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky down0019" x="1728" y="0" width="428" height="325" frameX="0" frameY="0" frameWidth="428" frameHeight="337"/>
+	<SubTexture name="blinky idle0000" x="2160" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0001" x="2160" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0002" x="2560" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0003" x="2560" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0004" x="2960" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0005" x="2960" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0006" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0007" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0008" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0009" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0010" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0011" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0012" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky idle0013" x="3360" y="0" width="396" height="377"/>
+	<SubTexture name="blinky left0000" x="3760" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0001" x="3760" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0002" x="4272" y="0" width="508" height="362"/>
+	<SubTexture name="blinky left0003" x="4272" y="0" width="508" height="362"/>
+	<SubTexture name="blinky left0004" x="4784" y="0" width="508" height="362"/>
+	<SubTexture name="blinky left0005" x="4784" y="0" width="508" height="362"/>
+	<SubTexture name="blinky left0006" x="5296" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0007" x="5296" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0008" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0009" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0010" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0011" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0012" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0013" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0014" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0015" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0016" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0017" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0018" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky left0019" x="5808" y="0" width="508" height="361" frameX="0" frameY="0" frameWidth="508" frameHeight="362"/>
+	<SubTexture name="blinky right0000" x="6320" y="0" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0001" x="6320" y="0" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0002" x="6832" y="0" width="508" height="383"/>
+	<SubTexture name="blinky right0003" x="6832" y="0" width="508" height="383"/>
+	<SubTexture name="blinky right0004" x="7344" y="0" width="508" height="383"/>
+	<SubTexture name="blinky right0005" x="7344" y="0" width="508" height="383"/>
+	<SubTexture name="blinky right0006" x="0" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0007" x="0" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0008" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0009" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0010" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0011" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0012" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0013" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0014" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0015" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0016" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0017" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0018" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky right0019" x="512" y="387" width="508" height="382" frameX="0" frameY="0" frameWidth="508" frameHeight="383"/>
+	<SubTexture name="blinky up0000" x="1024" y="387" width="470" height="396" frameX="0" frameY="0" frameWidth="470" frameHeight="404"/>
+	<SubTexture name="blinky up0001" x="1024" y="387" width="470" height="396" frameX="0" frameY="0" frameWidth="470" frameHeight="404"/>
+	<SubTexture name="blinky up0002" x="1498" y="387" width="470" height="401" frameX="0" frameY="0" frameWidth="470" frameHeight="404"/>
+	<SubTexture name="blinky up0003" x="1498" y="387" width="470" height="401" frameX="0" frameY="0" frameWidth="470" frameHeight="404"/>
+	<SubTexture name="blinky up0004" x="1972" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0005" x="1972" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0006" x="2446" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0007" x="2446" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0008" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0009" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0010" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0011" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0012" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0013" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0014" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0015" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0016" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0017" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0018" x="2920" y="387" width="470" height="404"/>
+	<SubTexture name="blinky up0019" x="2920" y="387" width="470" height="404"/>
+</TextureAtlas>

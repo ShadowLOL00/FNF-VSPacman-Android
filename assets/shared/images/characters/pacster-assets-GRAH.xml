@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pacster-assets-GRAH.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead loop0000" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0001" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0002" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0003" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0004" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0005" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0006" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0007" x="1046" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0008" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0009" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0010" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0011" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0012" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0013" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0014" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0015" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0016" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0017" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0018" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0019" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0020" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0021" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0022" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0023" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0024" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0025" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0026" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0027" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0028" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0029" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0030" x="1046" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0031" x="523" y="0" width="519" height="478"/>
+	<SubTexture name="dead loop0032" x="0" y="0" width="519" height="478"/>
+	<SubTexture name="deathconfirm0000" x="1569" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0001" x="2636" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0002" x="3703" y="0" width="1063" height="564" frameX="0" frameY="-27" frameWidth="1063" frameHeight="591"/>
+	<SubTexture name="deathconfirm0003" x="4770" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0004" x="4770" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0005" x="5837" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0006" x="5837" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0007" x="6904" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0008" x="6904" y="0" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0009" x="0" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0010" x="0" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0011" x="1067" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0012" x="1067" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0013" x="2134" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0014" x="2134" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0015" x="3201" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0016" x="3201" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0017" x="4268" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0018" x="4268" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0019" x="5335" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0020" x="5335" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0021" x="6402" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0022" x="6402" y="595" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0023" x="0" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0024" x="0" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0025" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0026" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0027" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0028" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0029" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0030" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0031" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="deathconfirm0032" x="1067" y="1190" width="1063" height="591"/>
+	<SubTexture name="pac dies0000" x="2134" y="1190" width="416" height="464" frameX="0" frameY="0" frameWidth="423" frameHeight="464"/>
+	<SubTexture name="pac dies0001" x="2554" y="1190" width="416" height="464" frameX="0" frameY="0" frameWidth="423" frameHeight="464"/>
+	<SubTexture name="pac dies0002" x="2974" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0003" x="2974" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0004" x="3401" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0005" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0006" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0007" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0008" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0009" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0010" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0011" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0012" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0013" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0014" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0015" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0016" x="3828" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0017" x="4255" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0018" x="4255" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0019" x="4682" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0020" x="4682" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0021" x="5109" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0022" x="5109" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0023" x="5536" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0024" x="5963" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0025" x="6390" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0026" x="6390" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0027" x="6817" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0028" x="6817" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0029" x="7244" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0030" x="7244" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0031" x="7671" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0032" x="7671" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0033" x="7671" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0034" x="7671" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0035" x="7671" y="1190" width="423" height="464"/>
+	<SubTexture name="pac dies0036" x="0" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0037" x="0" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0038" x="427" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0039" x="427" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0040" x="854" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0041" x="854" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0042" x="1281" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0043" x="1281" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0044" x="1708" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0045" x="1708" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0046" x="2135" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0047" x="2135" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0048" x="2562" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0049" x="2562" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0050" x="2989" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0051" x="2989" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0052" x="3416" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0053" x="3416" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0054" x="3843" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0055" x="4270" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0056" x="4270" y="1785" width="423" height="464"/>
+	<SubTexture name="pac dies0057" x="4270" y="1785" width="423" height="464"/>
+	<SubTexture name="pacsterMISSdown0000" x="4697" y="1785" width="539" height="418" frameX="0" frameY="0" frameWidth="539" frameHeight="427"/>
+	<SubTexture name="pacsterMISSdown0001" x="4697" y="1785" width="539" height="418" frameX="0" frameY="0" frameWidth="539" frameHeight="427"/>
+	<SubTexture name="pacsterMISSdown0002" x="5240" y="1785" width="539" height="423" frameX="0" frameY="0" frameWidth="539" frameHeight="427"/>
+	<SubTexture name="pacsterMISSdown0003" x="5240" y="1785" width="539" height="423" frameX="0" frameY="0" frameWidth="539" frameHeight="427"/>
+	<SubTexture name="pacsterMISSdown0004" x="5783" y="1785" width="539" height="426" frameX="0" frameY="0" frameWidth="539" frameHeight="427"/>
+	<SubTexture name="pacsterMISSdown0005" x="5783" y="1785" width="539" height="426" frameX="0" frameY="0" frameWidth="539" frameHeight="427"/>
+	<SubTexture name="pacsterMISSdown0006" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSdown0007" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSdown0008" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSdown0009" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSdown0010" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSdown0011" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSdown0012" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSdown0013" x="6326" y="1785" width="539" height="427"/>
+	<SubTexture name="pacsterMISSleft0000" x="6869" y="1785" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0001" x="6869" y="1785" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0002" x="7384" y="1785" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0003" x="7384" y="1785" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0004" x="0" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0005" x="0" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0006" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0007" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0008" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0009" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0010" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0011" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0012" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSleft0013" x="515" y="2253" width="511" height="376"/>
+	<SubTexture name="pacsterMISSright0000" x="1030" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0001" x="1030" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0002" x="1580" y="2253" width="546" height="358"/>
+	<SubTexture name="pacsterMISSright0003" x="1580" y="2253" width="546" height="358"/>
+	<SubTexture name="pacsterMISSright0004" x="2130" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0005" x="2130" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0006" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0007" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0008" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0009" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0010" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0011" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0012" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSright0013" x="2680" y="2253" width="546" height="357" frameX="0" frameY="0" frameWidth="546" frameHeight="358"/>
+	<SubTexture name="pacsterMISSup0000" x="3230" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0001" x="3230" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0002" x="3793" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0003" x="3793" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0004" x="4356" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0005" x="4356" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0006" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0007" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0008" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0009" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0010" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0011" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0012" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterMISSup0013" x="4919" y="2253" width="559" height="497"/>
+	<SubTexture name="pacsterdownGRAH0000" x="5482" y="2253" width="554" height="450" frameX="0" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0001" x="5482" y="2253" width="554" height="450" frameX="0" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0002" x="6040" y="2253" width="549" height="462" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0003" x="6040" y="2253" width="549" height="462" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0004" x="6593" y="2253" width="549" height="455" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0005" x="6593" y="2253" width="549" height="455" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0006" x="7146" y="2253" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0007" x="7146" y="2253" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0008" x="0" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0009" x="0" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0010" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0011" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0012" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0013" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0014" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0015" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0016" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0017" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0018" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsterdownGRAH0019" x="553" y="2754" width="549" height="457" frameX="-5" frameY="0" frameWidth="554" frameHeight="462"/>
+	<SubTexture name="pacsteridleGRAH0000" x="1106" y="2754" width="424" height="401"/>
+	<SubTexture name="pacsteridleGRAH0001" x="1106" y="2754" width="424" height="401"/>
+	<SubTexture name="pacsteridleGRAH0002" x="1534" y="2754" width="423" height="401" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0003" x="1534" y="2754" width="423" height="401" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0004" x="1961" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0005" x="1961" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0006" x="2388" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0007" x="2388" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0008" x="2815" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0009" x="2815" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0010" x="2815" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0011" x="2815" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0012" x="2815" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsteridleGRAH0013" x="2815" y="2754" width="423" height="400" frameX="0" frameY="0" frameWidth="424" frameHeight="401"/>
+	<SubTexture name="pacsterleftGRAH0000" x="3242" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0001" x="3242" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0002" x="3768" y="2754" width="522" height="392"/>
+	<SubTexture name="pacsterleftGRAH0003" x="3768" y="2754" width="522" height="392"/>
+	<SubTexture name="pacsterleftGRAH0004" x="4294" y="2754" width="522" height="392"/>
+	<SubTexture name="pacsterleftGRAH0005" x="4294" y="2754" width="522" height="392"/>
+	<SubTexture name="pacsterleftGRAH0006" x="4820" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0007" x="4820" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0008" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0009" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0010" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0011" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0012" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0013" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0014" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0015" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0016" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0017" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0018" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterleftGRAH0019" x="5346" y="2754" width="522" height="391" frameX="0" frameY="0" frameWidth="522" frameHeight="392"/>
+	<SubTexture name="pacsterrightGRAH0000" x="5872" y="2754" width="584" height="380" frameX="0" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0001" x="5872" y="2754" width="584" height="380" frameX="0" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0002" x="6460" y="2754" width="582" height="381" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0003" x="6460" y="2754" width="582" height="381" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0004" x="7046" y="2754" width="582" height="381" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0005" x="7046" y="2754" width="582" height="381" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0006" x="0" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0007" x="0" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0008" x="586" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0009" x="586" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0010" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0011" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0012" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0013" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0014" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0015" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0016" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0017" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0018" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterrightGRAH0019" x="1172" y="3215" width="582" height="380" frameX="-2" frameY="0" frameWidth="584" frameHeight="381"/>
+	<SubTexture name="pacsterupGRAH0000" x="1758" y="3215" width="503" height="549" frameX="0" frameY="0" frameWidth="503" frameHeight="551"/>
+	<SubTexture name="pacsterupGRAH0001" x="1758" y="3215" width="503" height="549" frameX="0" frameY="0" frameWidth="503" frameHeight="551"/>
+	<SubTexture name="pacsterupGRAH0002" x="2265" y="3215" width="503" height="548" frameX="0" frameY="0" frameWidth="503" frameHeight="551"/>
+	<SubTexture name="pacsterupGRAH0003" x="2265" y="3215" width="503" height="548" frameX="0" frameY="0" frameWidth="503" frameHeight="551"/>
+	<SubTexture name="pacsterupGRAH0004" x="2772" y="3215" width="503" height="549" frameX="0" frameY="0" frameWidth="503" frameHeight="551"/>
+	<SubTexture name="pacsterupGRAH0005" x="2772" y="3215" width="503" height="549" frameX="0" frameY="0" frameWidth="503" frameHeight="551"/>
+	<SubTexture name="pacsterupGRAH0006" x="3279" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0007" x="3279" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0008" x="3786" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0009" x="3786" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0010" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0011" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0012" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0013" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0014" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0015" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0016" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0017" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0018" x="4293" y="3215" width="503" height="551"/>
+	<SubTexture name="pacsterupGRAH0019" x="4293" y="3215" width="503" height="551"/>
+</TextureAtlas>

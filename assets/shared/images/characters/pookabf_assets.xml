@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pookabf_assets.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pooka alive0000" x="0" y="0" width="101" height="84" frameX="-211" frameY="-127" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0001" x="105" y="0" width="441" height="267" frameX="-1" frameY="0" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0002" x="105" y="0" width="441" height="267" frameX="-1" frameY="0" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0003" x="550" y="0" width="442" height="267" frameX="0" frameY="0" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0004" x="550" y="0" width="442" height="267" frameX="0" frameY="0" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0005" x="996" y="0" width="395" height="275" frameX="-37" frameY="-21" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0006" x="996" y="0" width="395" height="275" frameX="-37" frameY="-21" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0007" x="1395" y="0" width="400" height="271" frameX="-35" frameY="-33" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0008" x="1395" y="0" width="400" height="271" frameX="-35" frameY="-33" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0009" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0010" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0011" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0012" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0013" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0014" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0015" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0016" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0017" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0018" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0019" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0020" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0021" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0022" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0023" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0024" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0025" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0026" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0027" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0028" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0029" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0030" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0031" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0032" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0033" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0034" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0035" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0036" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka alive0037" x="1799" y="0" width="394" height="274" frameX="-38" frameY="-28" frameWidth="442" frameHeight="304"/>
+	<SubTexture name="pooka dead0000" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0001" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0002" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0003" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0004" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0005" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0006" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0007" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0008" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0009" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0010" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0011" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0012" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0013" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0014" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0015" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0016" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0017" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0018" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0019" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0020" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0021" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0022" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0023" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0024" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0025" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0026" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0027" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0028" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0029" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0030" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0031" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0032" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0033" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0034" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0035" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0036" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dead0037" x="2197" y="0" width="571" height="127"/>
+	<SubTexture name="pooka dies0000" x="2772" y="0" width="549" height="470" frameX="0" frameY="-23" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0001" x="3325" y="0" width="610" height="533" frameX="-5" frameY="0" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0002" x="0" y="537" width="618" height="439" frameX="-99" frameY="-81" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0003" x="622" y="537" width="920" height="384" frameX="-80" frameY="-132" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0004" x="622" y="537" width="920" height="384" frameX="-80" frameY="-132" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0005" x="1546" y="537" width="528" height="123" frameX="-640" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0006" x="1546" y="537" width="528" height="123" frameX="-640" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0007" x="2078" y="537" width="543" height="126" frameX="-651" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0008" x="2078" y="537" width="543" height="126" frameX="-651" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0009" x="2625" y="537" width="571" height="127" frameX="-641" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0010" x="2625" y="537" width="571" height="127" frameX="-641" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0011" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0012" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0013" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0014" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0015" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0016" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0017" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0018" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0019" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0020" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0021" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0022" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0023" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0024" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0025" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0026" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0027" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0028" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0029" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0030" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0031" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0032" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0033" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0034" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0035" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0036" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0037" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0038" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0039" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0040" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0041" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0042" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0043" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0044" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0045" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0046" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0047" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pooka dies0048" x="3200" y="537" width="571" height="127" frameX="-643" frameY="-421" frameWidth="1214" frameHeight="548"/>
+	<SubTexture name="pookadown0000" x="0" y="980" width="442" height="233" frameX="-2" frameY="0" frameWidth="444" frameHeight="233"/>
+	<SubTexture name="pookadown0001" x="446" y="980" width="442" height="233" frameX="-2" frameY="0" frameWidth="444" frameHeight="233"/>
+	<SubTexture name="pookadown0002" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0003" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0004" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0005" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0006" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0007" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0008" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0009" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0010" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0011" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0012" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookadown0013" x="892" y="980" width="444" height="233"/>
+	<SubTexture name="pookaidle0000" x="1340" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0001" x="1747" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0002" x="2154" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0003" x="2154" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0004" x="2561" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0005" x="2561" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0006" x="2968" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0007" x="2968" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0008" x="3375" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0009" x="3375" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0010" x="3375" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0011" x="3375" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0012" x="3375" y="980" width="403" height="338"/>
+	<SubTexture name="pookaidle0013" x="3375" y="980" width="403" height="338"/>
+	<SubTexture name="pookaleft0000" x="0" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0001" x="382" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0002" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0003" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0004" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0005" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0006" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0007" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0008" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0009" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0010" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0011" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0012" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookaleft0013" x="764" y="1322" width="378" height="328"/>
+	<SubTexture name="pookamissdown0000" x="1146" y="1322" width="425" height="208" frameX="0" frameY="-2" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0001" x="1146" y="1322" width="425" height="208" frameX="0" frameY="-2" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0002" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0003" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0004" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0005" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0006" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0007" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0008" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0009" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0010" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0011" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0012" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissdown0013" x="1575" y="1322" width="416" height="210" frameX="-4" frameY="0" frameWidth="425" frameHeight="210"/>
+	<SubTexture name="pookamissleft0000" x="1995" y="1322" width="428" height="197" frameX="-1" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0001" x="1995" y="1322" width="428" height="197" frameX="-1" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0002" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0003" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0004" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0005" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0006" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0007" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0008" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0009" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0010" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0011" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0012" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissleft0013" x="2427" y="1322" width="427" height="197" frameX="0" frameY="0" frameWidth="429" frameHeight="197"/>
+	<SubTexture name="pookamissright0000" x="2858" y="1322" width="321" height="265" frameX="0" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0001" x="2858" y="1322" width="321" height="265" frameX="0" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0002" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0003" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0004" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0005" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0006" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0007" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0008" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0009" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0010" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0011" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0012" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissright0013" x="3183" y="1322" width="315" height="265" frameX="-7" frameY="0" frameWidth="322" frameHeight="265"/>
+	<SubTexture name="pookamissup0000" x="3502" y="1322" width="409" height="373" frameX="0" frameY="-6" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0001" x="3502" y="1322" width="409" height="373" frameX="0" frameY="-6" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0002" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0003" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0004" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0005" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0006" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0007" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0008" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0009" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0010" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0011" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0012" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookamissup0013" x="0" y="1699" width="405" height="379" frameX="-2" frameY="0" frameWidth="409" frameHeight="379"/>
+	<SubTexture name="pookaright0000" x="409" y="1699" width="416" height="314"/>
+	<SubTexture name="pookaright0001" x="829" y="1699" width="416" height="314"/>
+	<SubTexture name="pookaright0002" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0003" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0004" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0005" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0006" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0007" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0008" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0009" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0010" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0011" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0012" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaright0013" x="1249" y="1699" width="416" height="311" frameX="0" frameY="-3" frameWidth="416" frameHeight="314"/>
+	<SubTexture name="pookaup0000" x="1669" y="1699" width="366" height="409"/>
+	<SubTexture name="pookaup0001" x="2039" y="1699" width="366" height="409"/>
+	<SubTexture name="pookaup0002" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0003" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0004" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0005" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0006" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0007" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0008" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0009" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0010" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0011" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0012" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+	<SubTexture name="pookaup0013" x="2409" y="1699" width="366" height="407" frameX="0" frameY="-2" frameWidth="366" frameHeight="409"/>
+</TextureAtlas>

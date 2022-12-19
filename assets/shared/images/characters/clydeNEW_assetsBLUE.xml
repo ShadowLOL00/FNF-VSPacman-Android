@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clydeNEW_assetsBLUE.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clyde ALT 30000" x="0" y="0" width="422" height="390" frameX="0" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30001" x="0" y="0" width="422" height="390" frameX="0" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30002" x="426" y="0" width="422" height="419" frameX="-6" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30003" x="426" y="0" width="422" height="419" frameX="-6" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30004" x="852" y="0" width="418" height="402" frameX="-7" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30005" x="852" y="0" width="418" height="402" frameX="-7" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30006" x="1274" y="0" width="417" height="397" frameX="-6" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30007" x="1274" y="0" width="417" height="397" frameX="-6" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30008" x="1274" y="0" width="417" height="397" frameX="-6" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30009" x="1695" y="0" width="419" height="400" frameX="-7" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30010" x="1695" y="0" width="419" height="400" frameX="-7" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30011" x="2118" y="0" width="439" height="409" frameX="-7" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30012" x="2561" y="0" width="464" height="437" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30013" x="2561" y="0" width="464" height="437" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30014" x="3029" y="0" width="447" height="424" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30015" x="3029" y="0" width="447" height="424" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30016" x="3480" y="0" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30017" x="3480" y="0" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30018" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30019" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30020" x="453" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30021" x="453" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30022" x="906" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30023" x="906" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30024" x="453" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30025" x="453" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30026" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30027" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30028" x="1359" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30029" x="453" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30030" x="453" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30031" x="906" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30032" x="906" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30033" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30034" x="1812" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30035" x="1812" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30036" x="3480" y="0" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30037" x="3480" y="0" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30038" x="2265" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30039" x="2265" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30040" x="1359" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30041" x="1359" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30042" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30043" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30044" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30045" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30046" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30047" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30048" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30049" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30050" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30051" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30052" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30053" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30054" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30055" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30056" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30057" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30058" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30059" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30060" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30061" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30062" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30063" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30064" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30065" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30066" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30067" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30068" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30069" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30070" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30071" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30072" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30073" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30074" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30075" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30076" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30077" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30078" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30079" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30080" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30081" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30082" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30083" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30084" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30085" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30086" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30087" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30088" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30089" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30090" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30091" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30092" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30093" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30094" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30095" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30096" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30097" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30098" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30099" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30100" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30101" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30102" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30103" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30104" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30105" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30106" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30107" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30108" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30109" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30110" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30111" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30112" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30113" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30114" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30115" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30116" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30117" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30118" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30119" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30120" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30121" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30122" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30123" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30124" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30125" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30126" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30127" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30128" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30129" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30130" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30131" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30132" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30133" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30134" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30135" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30136" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30137" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30138" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30139" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30140" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30141" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30142" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30143" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30144" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30145" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30146" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30147" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30148" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30149" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30150" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30151" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30152" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30153" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30154" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30155" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30156" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30157" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30158" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30159" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30160" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30161" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30162" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30163" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30164" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30165" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30166" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30167" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30168" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30169" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30170" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30171" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30172" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30173" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30174" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30175" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30176" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30177" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30178" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30179" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30180" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30181" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30182" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30183" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30184" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30185" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30186" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30187" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30188" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30189" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30190" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30191" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30192" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30193" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30194" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30195" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30196" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30197" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30198" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30199" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30200" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30201" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30202" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30203" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30204" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30205" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30206" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30207" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30208" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30209" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30210" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30211" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30212" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30213" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30214" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30215" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30216" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30217" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30218" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30219" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30220" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30221" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30222" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30223" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30224" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30225" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30226" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30227" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30228" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30229" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30230" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30231" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30232" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30233" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30234" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30235" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30236" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30237" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30238" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 30239" x="0" y="441" width="449" height="420" frameX="-21" frameY="0" frameWidth="485" frameHeight="437"/>
+	<SubTexture name="clyde ALT 40000" x="2718" y="441" width="415" height="375" frameX="0" frameY="-28" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40001" x="2718" y="441" width="415" height="375" frameX="0" frameY="-28" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40002" x="3137" y="441" width="415" height="375" frameX="-1" frameY="-28" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40003" x="3137" y="441" width="415" height="375" frameX="-1" frameY="-28" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40004" x="3556" y="441" width="440" height="379" frameX="-6" frameY="-30" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40005" x="3556" y="441" width="440" height="379" frameX="-6" frameY="-30" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40006" x="0" y="865" width="436" height="411" frameX="0" frameY="-8" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40007" x="0" y="865" width="436" height="411" frameX="0" frameY="-8" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40008" x="440" y="865" width="436" height="412" frameX="-2" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40009" x="440" y="865" width="436" height="412" frameX="-2" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40010" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40011" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40012" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40013" x="1322" y="865" width="434" height="410" frameX="-4" frameY="-1" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40014" x="1322" y="865" width="434" height="410" frameX="-4" frameY="-1" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40015" x="1760" y="865" width="438" height="413" frameX="0" frameY="-8" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40016" x="1760" y="865" width="438" height="413" frameX="0" frameY="-8" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40017" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40018" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40019" x="2202" y="865" width="438" height="411" frameX="0" frameY="0" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40020" x="2202" y="865" width="438" height="411" frameX="0" frameY="0" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40021" x="2202" y="865" width="438" height="411" frameX="0" frameY="0" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40022" x="1760" y="865" width="438" height="413" frameX="0" frameY="-8" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40023" x="1760" y="865" width="438" height="413" frameX="0" frameY="-8" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40024" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40025" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40026" x="880" y="865" width="438" height="414" frameX="0" frameY="-10" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40027" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40028" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40029" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40030" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40031" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40032" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40033" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40034" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40035" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40036" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40037" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40038" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40039" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40040" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40041" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40042" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40043" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40044" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40045" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40046" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40047" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40048" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40049" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40050" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40051" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40052" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40053" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40054" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40055" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40056" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40057" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40058" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40059" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40060" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40061" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40062" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40063" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40064" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40065" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40066" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40067" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40068" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40069" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40070" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40071" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40072" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40073" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40074" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40075" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40076" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40077" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40078" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40079" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40080" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40081" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40082" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40083" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40084" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40085" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40086" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40087" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40088" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40089" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40090" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40091" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40092" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40093" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40094" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40095" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40096" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40097" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40098" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40099" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40100" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40101" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40102" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40103" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40104" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40105" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40106" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40107" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40108" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40109" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40110" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40111" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40112" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40113" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40114" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40115" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40116" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40117" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40118" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40119" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40120" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40121" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40122" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40123" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40124" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40125" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40126" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40127" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40128" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40129" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40130" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40131" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40132" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40133" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40134" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40135" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40136" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40137" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40138" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40139" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40140" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40141" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40142" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40143" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40144" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40145" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40146" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40147" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40148" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40149" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40150" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40151" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40152" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40153" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40154" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40155" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40156" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40157" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40158" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40159" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40160" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40161" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40162" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40163" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40164" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40165" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40166" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40167" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40168" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40169" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40170" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40171" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40172" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40173" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40174" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40175" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40176" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40177" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40178" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40179" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40180" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40181" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40182" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40183" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40184" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40185" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40186" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40187" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40188" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40189" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40190" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40191" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40192" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40193" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40194" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40195" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40196" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40197" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40198" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40199" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40200" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40201" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40202" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40203" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40204" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40205" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40206" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40207" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40208" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40209" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40210" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40211" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40212" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40213" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40214" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40215" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40216" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40217" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40218" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40219" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40220" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40221" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40222" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40223" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40224" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40225" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40226" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40227" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40228" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40229" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clyde ALT 40230" x="2644" y="865" width="438" height="414" frameX="-1" frameY="-11" frameWidth="446" frameHeight="425"/>
+	<SubTexture name="clydeBLUEdown0000" x="3086" y="865" width="395" height="356" frameX="-3" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0001" x="3086" y="865" width="395" height="356" frameX="-3" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0002" x="3485" y="865" width="396" height="347" frameX="0" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0003" x="3485" y="865" width="396" height="347" frameX="0" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0004" x="0" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0005" x="0" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0006" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0007" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0008" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0009" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0010" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0011" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0012" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0013" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0014" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0015" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0016" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0017" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0018" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEdown0019" x="392" y="1283" width="388" height="344" frameX="-8" frameY="0" frameWidth="398" frameHeight="356"/>
+	<SubTexture name="clydeBLUEidle0000" x="784" y="1283" width="415" height="383"/>
+	<SubTexture name="clydeBLUEidle0001" x="1203" y="1283" width="415" height="383"/>
+	<SubTexture name="clydeBLUEidle0002" x="1622" y="1283" width="415" height="381" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0003" x="2041" y="1283" width="415" height="381" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0004" x="2460" y="1283" width="415" height="374" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0005" x="2460" y="1283" width="415" height="374" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0006" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0007" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0008" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0009" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0010" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0011" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0012" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEidle0013" x="2879" y="1283" width="415" height="372" frameX="0" frameY="0" frameWidth="415" frameHeight="383"/>
+	<SubTexture name="clydeBLUEleft0000" x="3298" y="1283" width="528" height="353" frameX="0" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0001" x="3298" y="1283" width="528" height="353" frameX="0" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0002" x="0" y="1670" width="524" height="363" frameX="-4" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0003" x="0" y="1670" width="524" height="363" frameX="-4" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0004" x="528" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0005" x="528" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0006" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0007" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0008" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0009" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0010" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0011" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0012" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0013" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0014" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0015" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0016" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0017" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0018" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEleft0019" x="1051" y="1670" width="519" height="366" frameX="-9" frameY="0" frameWidth="528" frameHeight="366"/>
+	<SubTexture name="clydeBLUEright0000" x="1574" y="1670" width="474" height="383" frameX="0" frameY="0" frameWidth="474" frameHeight="389"/>
+	<SubTexture name="clydeBLUEright0001" x="1574" y="1670" width="474" height="383" frameX="0" frameY="0" frameWidth="474" frameHeight="389"/>
+	<SubTexture name="clydeBLUEright0002" x="2052" y="1670" width="474" height="388" frameX="0" frameY="0" frameWidth="474" frameHeight="389"/>
+	<SubTexture name="clydeBLUEright0003" x="2052" y="1670" width="474" height="388" frameX="0" frameY="0" frameWidth="474" frameHeight="389"/>
+	<SubTexture name="clydeBLUEright0004" x="2530" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0005" x="2530" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0006" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0007" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0008" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0009" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0010" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0011" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0012" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0013" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0014" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0015" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0016" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0017" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0018" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEright0019" x="3008" y="1670" width="474" height="389"/>
+	<SubTexture name="clydeBLUEup0000" x="3486" y="1670" width="440" height="388" frameX="0" frameY="0" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="clydeBLUEup0001" x="3486" y="1670" width="440" height="388" frameX="0" frameY="0" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="clydeBLUEup0002" x="0" y="2063" width="440" height="406" frameX="0" frameY="0" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="clydeBLUEup0003" x="0" y="2063" width="440" height="406" frameX="0" frameY="0" frameWidth="440" frameHeight="411"/>
+	<SubTexture name="clydeBLUEup0004" x="444" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0005" x="444" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0006" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0007" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0008" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0009" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0010" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0011" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0012" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0013" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0014" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0015" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0016" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0017" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0018" x="888" y="2063" width="440" height="411"/>
+	<SubTexture name="clydeBLUEup0019" x="888" y="2063" width="440" height="411"/>
+</TextureAtlas>
