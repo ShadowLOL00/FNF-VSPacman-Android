@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "pacmenu",
+	"position": [
+		97,
+		-16
+	],
+	"scale": 0.65,
+	"image": "pacmenu"
+}
