@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"mood shift",
+			"pac2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"ghostly",
+			"pacster",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"mania",
+			"pac-man",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"dig",
+			"taizo",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"freebase",
+			"crack-man",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "freeplaystuff",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "pacweek",
+	"startUnlocked": false
+}

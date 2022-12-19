@@ -1,0 +1,49 @@
+{
+	"storyName": "pac'n'funk",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pacmenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"pakku",
+			"pac-man",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"midway",
+			"mspac",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cornered",
+			"blinky",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
