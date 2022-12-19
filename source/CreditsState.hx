@@ -81,6 +81,25 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+      ['Mod Android Port'],
+			['Anderson777',	'chachi',				'Mod Android Port',					'https://youtube.com/@ShadowLOL7', 	'05EAFF'],
+      ['']
+      ['VS Pac-Man Dev Team'],
+			['Cherribun',			'bun',				'Director, Main Artist, Animator,\nComposer of Pakku and Midway', 'https://twitter.com/ghostbunbun', 'e80945'],
+			['Pancho',			'pancho',				'Artist, Animator, Charter, Coder,\nComposer of the Game Over Theme', 'https://twitter.com/panchonatorr', 'c91466'],
+			['Chillaxin',			'chillaxin',				'Menu Artist, Helped with Ghostly Art', 'https://twitter.com/ChillaxinSonic', '4562f5'],
+			['TabiSkull',			'tabi',				'Animator and Artist', 'https://twitter.com/TabiSkulI', '39664c'],
+			['BryanJo97527502',			'Bryan',				'Background Artist', 'https://twitter.com/BryanJo97527502', 'c7de31'],
+			['Broster',			'broster',				'Source Code Coder', 'https://twitter.com/BrosterMedia', '8c4d53'],
+			['JADS',			'jads',						'Composer of Mania', 'https://twitter.com/Aw3somejds', '13cf2c'],
+			['TyrannousAsh',		'ash',				'Composer of Cornered, Ghostly and Freebase', 'https://twitter.com/ty20music', '828282'],
+			['Whoopz',			'whoopz',					'Composer of Mood Shift', 'https://twitter.com/Whoopz17', '664825'],
+			['Techpack',			'techpack',				'Composer of Dig, Menu Theme,\nand Coffee Break (Cornered)', 'https://twitter.com/Techpack_64', 'ded716'],
+			['Blon',			'blon',				'Voice of Ms. Pac-Man, Inky, and Pinky', 'https://twitter.com/_blon_', '664825'],
+			['Chachifox',			'chachi',				'Voice of Blinky', 'https://twitter.com/chachifox', '6872de'],
+			['RedTV53',			'red',				'Voice of Clyde', 'https://twitter.com/RedTV53', '8a0f13'],
+			['SquishyBlooper',			'jo',				'Voice of Skeebo', 'https://twitter.com/SquishyBlooper', 'bf7b0d'],
+			[''],
 			['Psych Engine Android'],
 			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine Android',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
 			[''],
