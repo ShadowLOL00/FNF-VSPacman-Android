@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pacsteridleGRAH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pacsterleftGRAH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pacsterdownGRAH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				184
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pacsterupGRAH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pacsterrightGRAH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-23
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "pacsterMISSleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "pacsterMISSdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				128
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pacsterMISSup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-30
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "pacsterMISSright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-16,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "pac dies"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				42,
+				58
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				171
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathconfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pacster-assets-GRAH",
+	"position": [
+		-1180,
+		350
+	],
+	"healthicon": "pacster",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		196,
+		67
+	],
+	"camera_position": [
+		-550,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

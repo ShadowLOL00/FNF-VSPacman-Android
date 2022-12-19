@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pacsterleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pacsterdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				184
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pacsterup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pacsterright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pacsteridle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				21
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "pacsteridleWOAH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				46
+			],
+			"anim": "grrr",
+			"fps": 24,
+			"name": "pacsteridleGRR",
+			"indices": []
+		},
+		{
+			"offsets": [
+				114,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ohyeah",
+			"loop": false,
+			"name": "pacsterOHYEAH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pacster-assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pacster",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		196,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

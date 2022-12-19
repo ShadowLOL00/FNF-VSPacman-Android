@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mate2idle"
+		},
+		{
+			"offsets": [
+				30,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mate2left0"
+		},
+		{
+			"offsets": [
+				46,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "mate2left MISS"
+		},
+		{
+			"offsets": [
+				-6,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mate2down0"
+		},
+		{
+			"offsets": [
+				-2,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "mate2down MISS"
+		},
+		{
+			"offsets": [
+				10,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mate2up0"
+		},
+		{
+			"offsets": [
+				9,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "mate2up MISS"
+		},
+		{
+			"offsets": [
+				-30,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mate2right0"
+		},
+		{
+			"offsets": [
+				-31,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "mate2right MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "no",
+			"fps": 24,
+			"name": "mate2canthelpyou",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "mate2canthelpyou"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roommates2",
+	"position": [
+		-180,
+		0
+	],
+	"healthicon": "roommate",
+	"flip_x": true,
+	"healthbar_colors": [
+		144,
+		122,
+		113
+	],
+	"camera_position": [
+		-490,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

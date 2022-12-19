@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TAIZOidle"
+		},
+		{
+			"offsets": [
+				261,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TAIZOleft"
+		},
+		{
+			"offsets": [
+				160,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TAIZOdown"
+		},
+		{
+			"offsets": [
+				65,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TAIZOup"
+		},
+		{
+			"offsets": [
+				31,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TAIZOright"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "TAIZOscaredidle"
+		},
+		{
+			"offsets": [
+				261,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "TAIZOscaredleft"
+		},
+		{
+			"offsets": [
+				65,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "TAIZOscaredup"
+		},
+		{
+			"offsets": [
+				31,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "TAIZOscaredright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-165
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "TAIZOscareddown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-fuck",
+			"loop": false,
+			"name": "TAIZOshitting"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taizo_assets",
+	"position": [
+		0,
+		156
+	],
+	"healthicon": "taizo",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		125,
+		180
+	],
+	"camera_position": [
+		-90,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

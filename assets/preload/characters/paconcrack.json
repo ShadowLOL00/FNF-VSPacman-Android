@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-65
+			],
+			"loop": true,
+			"fps": 36,
+			"anim": "idle",
+			"indices": [],
+			"name": "crackidle"
+		},
+		{
+			"offsets": [
+				22,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crackdown"
+		},
+		{
+			"offsets": [
+				0,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crackright"
+		},
+		{
+			"offsets": [
+				-59,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "crackup"
+		},
+		{
+			"offsets": [
+				149,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crackleft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/paconcrack",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "crack-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		232,
+		47
+	],
+	"camera_position": [
+		-370,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

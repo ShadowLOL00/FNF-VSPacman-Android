@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				61,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pac2 LEFT"
+		},
+		{
+			"offsets": [
+				81,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pac2 DOWN"
+		},
+		{
+			"offsets": [
+				32,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pac2 UP"
+		},
+		{
+			"offsets": [
+				30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pac2 RIGHT"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pac2 IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				200
+			],
+			"anim": "angry",
+			"fps": 24,
+			"name": "pac2 mid1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pac2_SAD",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "pac2",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		184,
+		0
+	],
+	"camera_position": [
+		-192,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

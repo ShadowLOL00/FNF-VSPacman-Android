@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pac2 LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				139
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pac2 DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				119
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pac2 UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				326
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pac2 RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pac2 IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pac2_ANGRY",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "pac2",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		184,
+		0
+	],
+	"camera_position": [
+		-272,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

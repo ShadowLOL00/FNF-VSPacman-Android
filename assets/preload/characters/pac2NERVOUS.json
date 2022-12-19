@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pac2 IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				56
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pac2 LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pac2 DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				159
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pac2 UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pac2 RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sad",
+			"loop": false,
+			"name": "pac2 mid1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pac2_NERVOUS",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "pac2",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		184,
+		0
+	],
+	"camera_position": [
+		-192,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

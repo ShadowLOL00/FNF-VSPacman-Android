@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				53
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF glow idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF GLOW LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF GLOW DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF GLOW UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF GLOW RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GLOWINGBOYFRIEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

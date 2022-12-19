@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Arcade Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Arcade Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Arcade Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Arcade Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Arcade Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/arcade_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pac-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		220,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

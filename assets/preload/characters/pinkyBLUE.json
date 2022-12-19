@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pinkyBLUEidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				191,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pinkyBLUEleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pinkyBLUEdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pinkyBLUEright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				137
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pinkyBLUEup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				114
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "howdareyou",
+			"indices": [],
+			"name": "pinky ALT 3"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinky blue shit",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "pinky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		184,
+		255
+	],
+	"camera_position": [
+		-80,
+		-60
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

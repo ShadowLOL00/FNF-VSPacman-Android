@@ -1,0 +1,143 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "pinky idle"
+		},
+		{
+			"offsets": [
+				191,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pinky left"
+		},
+		{
+			"offsets": [
+				31,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pinky down"
+		},
+		{
+			"offsets": [
+				-110,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pinky right"
+		},
+		{
+			"offsets": [
+				-10,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pinky up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "pinky idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-4
+			],
+			"anim": "boy",
+			"fps": 24,
+			"name": "pinky ALT 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "grunt",
+			"loop": false,
+			"name": "pinky ALT 2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinky stinky",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "pinky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		184,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

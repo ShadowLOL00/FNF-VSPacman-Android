@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skeebleft"
+		},
+		{
+			"offsets": [
+				134,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skeebdown"
+		},
+		{
+			"offsets": [
+				89,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skeebright"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skeebidle"
+		},
+		{
+			"offsets": [
+				187,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "skeebANGELleft"
+		},
+		{
+			"offsets": [
+				133,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "skeebANGELdown"
+		},
+		{
+			"offsets": [
+				115,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "skeebANGELup"
+		},
+		{
+			"offsets": [
+				128,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skeebup"
+		},
+		{
+			"offsets": [
+				90,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "skeebANGELright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skeebo-assets",
+	"position": [
+		1180,
+		250
+	],
+	"healthicon": "skeebo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		-520,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

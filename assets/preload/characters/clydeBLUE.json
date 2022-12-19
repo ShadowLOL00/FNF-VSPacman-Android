@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "clydeBLUEidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "clydeBLUEleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-63
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "clydeBLUEdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "clydeBLUEup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "clydeBLUEright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "please",
+			"loop": false,
+			"name": "clyde ALT 3"
+		},
+		{
+			"offsets": [
+				4,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dead",
+			"loop": false,
+			"name": "clyde ALT 4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/clydeNEW_assetsBLUE",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "clyde",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		184,
+		81
+	],
+	"camera_position": [
+		-50,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

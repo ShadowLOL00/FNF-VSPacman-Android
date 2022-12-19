@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "PacUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-112
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "PacBack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "PacDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-130
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "PacForward",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-83
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "PacIdleDance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pac-man",
+	"position": [
+		60,
+		290
+	],
+	"healthicon": "pac-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-40,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

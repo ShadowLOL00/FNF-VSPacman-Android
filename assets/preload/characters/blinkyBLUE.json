@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blinkyBLUEidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blinkyBLUEleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blinkyBLUEdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				92
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blinkyBLUEup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blinkyBLUEright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				367,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "payforthis",
+			"indices": [],
+			"name": "blinky ALT 4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blinky blue shit",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "blinky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-305,
+		-590
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

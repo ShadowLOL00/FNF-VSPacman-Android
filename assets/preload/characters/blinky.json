@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blinky idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blinky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blinky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				92
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blinky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blinky right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "blinky ALT0"
+		},
+		{
+			"offsets": [
+				45,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "blueballs",
+			"loop": false,
+			"name": "blinky ALT 2"
+		},
+		{
+			"offsets": [
+				66,
+				38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "notagain",
+			"loop": false,
+			"name": "blinky ALT 3"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blinky dinko",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "blinky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

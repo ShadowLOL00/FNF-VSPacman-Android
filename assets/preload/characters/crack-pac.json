@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-81
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pacright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pacup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pacleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pacdown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pacidle"
+		},
+		{
+			"offsets": [
+				358,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pussy",
+			"indices": [],
+			"name": "pacPUSSIES"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				71
+			],
+			"anim": "shit",
+			"fps": 24,
+			"name": "pacSHIT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				87
+			],
+			"anim": "wanna",
+			"fps": 24,
+			"name": "pacWANNA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crack-pac",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "crack-man",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		232,
+		47
+	],
+	"camera_position": [
+		-1000,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
