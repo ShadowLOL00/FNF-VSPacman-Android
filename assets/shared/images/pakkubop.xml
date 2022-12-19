@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghostboppers.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ghostbop instance 10000" x="8" y="8" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10001" x="8" y="8" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10002" x="8" y="1308" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10003" x="8" y="1308" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10004" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10005" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10006" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10007" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10008" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10009" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10010" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10011" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10012" x="8" y="2608" width="2500" height="1300"/>
+	<SubTexture name="ghostbop instance 10013" x="8" y="2608" width="2500" height="1300"/>
+</TextureAtlas>
