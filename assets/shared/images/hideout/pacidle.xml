@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pacidle.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pacdude idle instance 10000" x="0" y="0" width="538" height="440" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10001" x="0" y="0" width="538" height="440" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10002" x="542" y="0" width="538" height="437" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10003" x="542" y="0" width="538" height="437" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10004" x="1084" y="0" width="538" height="457" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10005" x="1084" y="0" width="538" height="457" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10006" x="0" y="461" width="538" height="462" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10007" x="0" y="461" width="538" height="462" frameX="0" frameY="0" frameWidth="538" frameHeight="463"/>
+	<SubTexture name="pacdude idle instance 10008" x="542" y="461" width="538" height="463"/>
+	<SubTexture name="pacdude idle instance 10009" x="542" y="461" width="538" height="463"/>
+	<SubTexture name="pacdude idle instance 10010" x="542" y="461" width="538" height="463"/>
+	<SubTexture name="pacdude idle instance 10011" x="542" y="461" width="538" height="463"/>
+	<SubTexture name="pacdude idle instance 10012" x="542" y="461" width="538" height="463"/>
+	<SubTexture name="pacdude idle instance 10013" x="542" y="461" width="538" height="463"/>
+</TextureAtlas>

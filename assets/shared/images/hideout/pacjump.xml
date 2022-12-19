@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pacjump.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pacdude jump instance 10000" x="0" y="0" width="486" height="656"/>
+	<SubTexture name="pacdude jump instance 10001" x="0" y="0" width="486" height="656"/>
+	<SubTexture name="pacdude jump instance 10002" x="490" y="0" width="479" height="656" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10003" x="490" y="0" width="479" height="656" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10004" x="973" y="0" width="479" height="653" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10005" x="973" y="0" width="479" height="653" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10006" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10007" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10008" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10009" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10010" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10011" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10012" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10013" x="1456" y="0" width="479" height="652" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10014" x="0" y="660" width="479" height="538" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+	<SubTexture name="pacdude jump instance 10015" x="483" y="660" width="479" height="395" frameX="0" frameY="0" frameWidth="486" frameHeight="656"/>
+</TextureAtlas>
