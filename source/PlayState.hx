@@ -144,6 +144,14 @@ class PlayState extends MusicBeatState
 	public var opponentStrums:FlxTypedGroup<StrumNote>;
 	public var playerStrums:FlxTypedGroup<StrumNote>;
 	public var grpNoteSplashes:FlxTypedGroup<NoteSplash>;
+	
+		//Do mod hehehe, by Anderson777 irmão! Roba não!
+	public var pacSound:FlxSound;
+	public var skippedIntro:Bool = false;
+	public var skippedText:FlxText;
+	public var whiteTrans:FlxSprite;
+	public var inTrans:Bool = false;
+	public var ghostEyes:FlxSprite;
 
 	public var camZooming:Bool = false;
 	public var camZoomingMult:Float = 1;
@@ -1154,7 +1162,7 @@ class PlayState extends MusicBeatState
 		#end
 		
 		var daSong:String = Paths.formatToSongPath(curSong);
-		if (isStoryMode && !seenCutscene)
+		if (isStoryMode && !seenCutscene && daSong != 'cornered')
 		{
 			switch (daSong)
 			{
@@ -1217,13 +1225,41 @@ class PlayState extends MusicBeatState
 
 				case 'ugh' | 'guns' | 'stress':
 					tankIntro();
+					
 
 				default:
 					startCountdown();
 			}
 			seenCutscene = true;
 		}
-		else
+		//eu também, mó legal né mano
+		
+		else if (daSong == 'cornered' || daSong == 'freebase'){
+		  skippedIntro = true;
+			generateStaticArrows(0);
+			generateStaticArrows(1);
+			for (i in 0...playerStrums.length) {
+				setOnLuas('defaultPlayerStrumX' + i, playerStrums.members[i].x);
+				setOnLuas('defaultPlayerStrumY' + i, playerStrums.members[i].y);
+			}
+			for (i in 0...opponentStrums.length) {
+				setOnLuas('defaultOpponentStrumX' + i, opponentStrums.members[i].x);
+				setOnLuas('defaultOpponentStrumY' + i, opponentStrums.members[i].y);
+				//if(ClientPrefs.middleScroll) opponentStrums.members[i].visible = false;
+		}
+		if (!isStoryMode || seenCutscene)
+				{
+					startedCountdown = true;
+					inCutscene = false;
+					Conductor.songPosition = -1000;
+				}
+				
+				callOnLuas('onStartCountdown', []);
+			//Conductor.songPosition -= Conductor.crochet * 5;
+			//return;
+			//startSong();
+		}
+		 else
 		{
 			startCountdown();
 		}
@@ -1408,6 +1444,9 @@ class PlayState extends MusicBeatState
 		startAndEnd();
 		#end
 	}
+	
+	
+	
 
 	function startAndEnd()
 	{
@@ -1874,8 +1913,15 @@ class PlayState extends MusicBeatState
 			}
 
 			startedCountdown = true;
-			Conductor.songPosition = 0;
-			Conductor.songPosition -= Conductor.crochet * 5;
+			skippedText = new FlxText(0, 0, FlxG.width,
+				"Pressione VOLTAR para pular a introdução.",
+				32);
+			skippedText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+			skippedText.screenCenter(Y);
+			skippedText.cameras = [camHUD];
+			add(skippedText);
+		//	Conductor.songPosition = 0;
+	//		Conductor.songPosition -= Conductor.crochet * 5;
 			setOnLuas('startedCountdown', true);
 			callOnLuas('onCountdownStarted', []);
 
@@ -1925,8 +1971,8 @@ class PlayState extends MusicBeatState
 				switch (swagCounter)
 				{
 					case 0:
-						FlxG.sound.play(Paths.sound('intro3' + introSoundsSuffix), 0.6);
-					case 1:
+						pacSound = FlxG.sound.load(Paths.sound('pacstart'));
+						pacSound.play(false, 0.6);
 						countdownReady = new FlxSprite().loadGraphic(Paths.image(introAlts[0]));
 						countdownReady.scrollFactor.set();
 						countdownReady.updateHitbox();
@@ -1937,56 +1983,6 @@ class PlayState extends MusicBeatState
 						countdownReady.screenCenter();
 						countdownReady.antialiasing = antialias;
 						add(countdownReady);
-						FlxTween.tween(countdownReady, {/*y: countdownReady.y + 100,*/ alpha: 0}, Conductor.crochet / 1000, {
-							ease: FlxEase.cubeInOut,
-							onComplete: function(twn:FlxTween)
-							{
-								remove(countdownReady);
-								countdownReady.destroy();
-							}
-						});
-						FlxG.sound.play(Paths.sound('intro2' + introSoundsSuffix), 0.6);
-					case 2:
-						countdownSet = new FlxSprite().loadGraphic(Paths.image(introAlts[1]));
-						countdownSet.scrollFactor.set();
-
-						if (PlayState.isPixelStage)
-							countdownSet.setGraphicSize(Std.int(countdownSet.width * daPixelZoom));
-
-						countdownSet.screenCenter();
-						countdownSet.antialiasing = antialias;
-						add(countdownSet);
-						FlxTween.tween(countdownSet, {/*y: countdownSet.y + 100,*/ alpha: 0}, Conductor.crochet / 1000, {
-							ease: FlxEase.cubeInOut,
-							onComplete: function(twn:FlxTween)
-							{
-								remove(countdownSet);
-								countdownSet.destroy();
-							}
-						});
-						FlxG.sound.play(Paths.sound('intro1' + introSoundsSuffix), 0.6);
-					case 3:
-						countdownGo = new FlxSprite().loadGraphic(Paths.image(introAlts[2]));
-						countdownGo.scrollFactor.set();
-
-						if (PlayState.isPixelStage)
-							countdownGo.setGraphicSize(Std.int(countdownGo.width * daPixelZoom));
-
-						countdownGo.updateHitbox();
-
-						countdownGo.screenCenter();
-						countdownGo.antialiasing = antialias;
-						add(countdownGo);
-						FlxTween.tween(countdownGo, {/*y: countdownGo.y + 100,*/ alpha: 0}, Conductor.crochet / 1000, {
-							ease: FlxEase.cubeInOut,
-							onComplete: function(twn:FlxTween)
-							{
-								remove(countdownGo);
-								countdownGo.destroy();
-							}
-						});
-						FlxG.sound.play(Paths.sound('introGo' + introSoundsSuffix), 0.6);
-					case 4:
 				}
 
 				notes.forEachAlive(function(note:Note) {
@@ -2069,6 +2065,12 @@ class PlayState extends MusicBeatState
 
 	function startSong():Void
 	{
+	  remove(skippedText);
+		if (countdownReady != null)
+		{
+			remove(countdownReady);
+			countdownReady.destroy();
+		}
 		startingSong = false;
 
 		previousFrameTime = FlxG.game.ticks;
@@ -2415,6 +2417,10 @@ class PlayState extends MusicBeatState
 				finishTimer.active = false;
 			if (songSpeedTween != null)
 				songSpeedTween.active = false;
+			if (pacSound != null)
+			  {
+			    pacSound.pause();
+			  }
 
 			if(carTimer != null) carTimer.active = false;
 
@@ -2451,6 +2457,10 @@ class PlayState extends MusicBeatState
 				finishTimer.active = true;
 			if (songSpeedTween != null)
 				songSpeedTween.active = true;
+			if (pacSound != null)
+			  {
+			    pacSound.resume();
+			  }
 			
 			if(carTimer != null) carTimer.active = true;
 
@@ -2770,9 +2780,22 @@ class PlayState extends MusicBeatState
 		{
 			if (startedCountdown)
 			{
+				if (FlxG.android.justReleased.BACK && !skippedIntro)
+				  {
+				    skippedIntro = true;
+				    pacSound.stop();
+				    remove(skippedText);
+				    FlxG.sound.play(Paths.sound('clickText'), 0.8)
+				    if (Conductor.songPosition > -1000 && Conductor.songPosition < 0)
+				      {
+				        
+				      }
+				    else
+              Conductor.songPosition = -1000;
+				  }
 				Conductor.songPosition += FlxG.elapsed * 1000;
-				if (Conductor.songPosition >= 0)
-					startSong();
+					if (Conductor.songPosition >= 0)
+						startSong();
 			}
 		}
 		else
@@ -3073,6 +3096,76 @@ class PlayState extends MusicBeatState
 
 	public function triggerEventNote(eventName:String, value1:String, value2:String) {
 		switch(eventName) {
+		  case 'Ghost Trans In':
+				var time:Float = 0.2;
+				if (value1 != null)
+					time = Std.parseFloat(value1);
+				else
+					time = 0.2;
+				if (time < 0)
+					time = 0;
+				whiteTrans = new FlxSprite();
+				whiteTrans.loadGraphic(Paths.image('white')); //new FlxSprite('white', -650, -200, 0.9, 0.9);
+				whiteTrans.x = -650; whiteTrans.y = -200;
+				whiteTrans.scrollFactor.set(0.9, 0.9);
+				whiteTrans.alpha = 0;
+				add(whiteTrans);
+
+				FlxTween.tween(whiteTrans, {alpha: 1}, 0.2, { ease: FlxEase.smoothStepIn, onComplete: function(twn:FlxTween)
+					{
+						
+					}});
+				
+			case 'Ghost Trans Out':
+				var time:Float = 0.2;
+				if (value1 != null)
+					time = Std.parseFloat(value1);
+				else
+					time = 0.2;
+				if (whiteTrans != null && !inTrans)
+					{
+						inTrans = true;
+						FlxTween.tween(whiteTrans, {alpha: 0}, 0.2, { ease: FlxEase.smoothStepIn, onComplete: function(twn:FlxTween)
+							{
+								inTrans = false;
+								remove(whiteTrans);
+								whiteTrans.destroy();
+								whiteTrans = null;
+							}});
+					}
+				else
+					{
+						var skippedText:FlxText = new FlxText(0, 0, FlxG.width,
+							"Wrong event order?\nCalled Trans Out before Trans In",
+							72);
+						skippedText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+						skippedText.screenCenter(Y);
+						skippedText.cameras = [camHUD];
+						add(skippedText);
+					}
+
+			case 'Ghost Eyes':
+				ghostEyes = new FlxSprite();
+				ghostEyes.loadGraphic(Paths.image(value1)); //new FlxSprite('white', -650, -200, 0.9, 0.9);
+				ghostEyes.x = dad.x; ghostEyes.y = dad.y;
+				//ghostEyes.scrollFactor.set(0.9, 0.9);
+				ghostEyes.alpha = 0;
+				add(ghostEyes);
+				FlxTween.tween(ghostEyes, {alpha: 1}, 0.2, { ease: FlxEase.smoothStepIn, onComplete: function(twn:FlxTween)
+					{
+						FlxTween.tween(ghostEyes, {y: -740}, 3, { ease: FlxEase.smoothStepIn, onComplete: function(twn:FlxTween) // upwards movement of the eyes, removes the sprite once this is completed
+						{
+							remove(ghostEyes);
+							ghostEyes.destroy();
+						}});
+						FlxTween.tween(ghostEyes, {x: dad.x - 200}, 0.25, { ease: FlxEase.smoothStepInOut, onComplete: function(twn:FlxTween) // first half of the sideways movement, done so that it can ping pong later with the ghost position centered
+						{
+							FlxTween.tween(ghostEyes, {x: dad.x + 200}, 0.5, { type: FlxTween.PINGPONG, ease: FlxEase.smoothStepInOut}); // full sideways movement, pingpongs forever with double the time of the first movement so the speed is synced up
+						}});
+					}});
+					
+					//Que símbolos estranhos hein cara!
+					
 			case 'Hey!':
 				var value:Int = 2;
 				switch(value1.toLowerCase().trim()) {
