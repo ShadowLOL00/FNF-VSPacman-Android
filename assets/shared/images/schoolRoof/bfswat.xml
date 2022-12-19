@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfswat.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF gets swatted0000" x="0" y="0" width="471" height="482" frameX="-43" frameY="-30" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0001" x="475" y="0" width="480" height="465" frameX="-7" frameY="-24" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0002" x="959" y="0" width="482" height="462" frameX="0" frameY="-19" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0003" x="1445" y="0" width="464" height="477" frameX="-25" frameY="-7" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0004" x="0" y="486" width="463" height="478" frameX="-50" frameY="0" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0005" x="0" y="0" width="471" height="482" frameX="-43" frameY="-30" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0006" x="475" y="0" width="480" height="465" frameX="-7" frameY="-24" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0007" x="959" y="0" width="482" height="462" frameX="0" frameY="-19" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0008" x="1445" y="0" width="464" height="477" frameX="-25" frameY="-7" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0009" x="0" y="486" width="463" height="478" frameX="-50" frameY="0" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0010" x="0" y="0" width="471" height="482" frameX="-43" frameY="-30" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0011" x="475" y="0" width="480" height="465" frameX="-7" frameY="-24" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0012" x="959" y="0" width="482" height="462" frameX="0" frameY="-19" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0013" x="1445" y="0" width="464" height="477" frameX="-25" frameY="-7" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0014" x="0" y="486" width="463" height="478" frameX="-50" frameY="0" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0015" x="0" y="0" width="471" height="482" frameX="-43" frameY="-30" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0016" x="475" y="0" width="480" height="465" frameX="-7" frameY="-24" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0017" x="959" y="0" width="482" height="462" frameX="0" frameY="-19" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0018" x="1445" y="0" width="464" height="477" frameX="-25" frameY="-7" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0019" x="0" y="486" width="463" height="478" frameX="-50" frameY="0" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0020" x="0" y="0" width="471" height="482" frameX="-43" frameY="-30" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0021" x="475" y="0" width="480" height="465" frameX="-7" frameY="-24" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0022" x="959" y="0" width="482" height="462" frameX="0" frameY="-19" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0023" x="1445" y="0" width="464" height="477" frameX="-25" frameY="-7" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0024" x="0" y="486" width="463" height="478" frameX="-50" frameY="0" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0025" x="0" y="0" width="471" height="482" frameX="-43" frameY="-30" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0026" x="475" y="0" width="480" height="465" frameX="-7" frameY="-24" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0027" x="959" y="0" width="482" height="462" frameX="0" frameY="-19" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0028" x="1445" y="0" width="464" height="477" frameX="-25" frameY="-7" frameWidth="514" frameHeight="512"/>
+	<SubTexture name="BF gets swatted0029" x="0" y="486" width="463" height="478" frameX="-50" frameY="0" frameWidth="514" frameHeight="512"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spiralbopAYO.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spiral bounce ayo0000" x="0" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0001" x="0" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0002" x="578" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0003" x="578" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0004" x="1156" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0005" x="1156" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0006" x="0" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0007" x="0" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0008" x="578" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0009" x="578" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0010" x="1156" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce ayo0011" x="1156" y="650" width="574" height="646"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spiralbop.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Spiral bounce0000" x="0" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0001" x="0" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0002" x="578" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0003" x="578" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0004" x="1156" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0005" x="1156" y="0" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0006" x="0" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0007" x="0" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0008" x="578" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0009" x="578" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0010" x="1156" y="650" width="574" height="646"/>
+	<SubTexture name="Spiral bounce0011" x="1156" y="650" width="574" height="646"/>
+</TextureAtlas>
