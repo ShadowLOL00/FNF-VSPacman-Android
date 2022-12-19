@@ -1,0 +1,9 @@
+{
+	"directory": "images/pac2",
+	"defaultZoom": 0.75,
+	"isPixelStage": false,
+
+	"boyfriend": [880, 100],
+	"girlfriend": [185, 130],
+	"opponent": [70, 190]
+}

@@ -1,0 +1,11 @@
+{
+	"directory": "images/dig",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [800, 100],
+	"girlfriend": [320, 130],
+	"opponent": [70, 100],
+
+	"camera_boyfriend": [-100, 0]
+}

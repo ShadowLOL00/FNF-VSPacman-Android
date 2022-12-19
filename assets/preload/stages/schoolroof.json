@@ -1,0 +1,11 @@
+{
+	"directory": "images/schoolroof",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [1170, 80],
+	"girlfriend": [400, 70],
+	"opponent": [0, 80],
+
+	"camera_boyfriend": [-200, 0]
+}

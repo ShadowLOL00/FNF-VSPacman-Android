@@ -1,0 +1,11 @@
+{
+	"directory": "images/hideout",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [780, 100],
+	"girlfriend": [225, 130],
+	"opponent": [-50, 60],
+
+	"camera_boyfriend": [-200, -50]
+}
