@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "underground",
+		"player1": "pookabf",
+		"player2": "taizo",
+		"player3": null,
+		"events": [
+			[
+				79054.054054054,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.3"
+					]
+				]
+			],
+			[
+				111475.409836065,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-fuck"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "frygargf",
+		"bpm": 111,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Dig"
+	}
+}
