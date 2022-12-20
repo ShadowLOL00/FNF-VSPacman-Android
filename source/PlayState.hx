@@ -2786,9 +2786,7 @@ class PlayState extends MusicBeatState
 				    pacSound.stop();
 				    remove(skippedText);
 				    FlxG.sound.play(Paths.sound('clickText'), 0.8)
-				  if (Conductor.songPosition > -1000 && Conductor.songPosition < 0){
-				    
-				  }else{
+				  if (Conductor.songPosition < -1000 && Conductor.songPosition > 0){
 				    Conductor.songPosition = -1000;
 				  }
 				 }
