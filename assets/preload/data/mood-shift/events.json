@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "pachouse",
+		"player1": "bf",
+		"player2": "pac2",
+		"player3": null,
+		"events": [
+			[
+				45000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0.2"
+					]
+				]
+			],
+			[
+				107906.25,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				113437.5,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.3"
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				134906.25,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "mood-shift"
+	}
+}
