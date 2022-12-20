@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "room",
+		"player1": "roommates2",
+		"player2": "crack-pac",
+		"player3": null,
+		"events": [
+			[
+				46736.8421052631,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				47921.0526315789,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1.35"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"paconcrack"
+					]
+				]
+			],
+			[
+				66947.3684210526,
+				[
+					[
+						"Change Character",
+						"dad",
+						"crack-pac"
+					]
+				]
+			],
+			[
+				68131.5789473684,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"0"
+					]
+				]
+			],
+			[
+				68210.5263157894,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				78315.7894736841,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				85578.947368421,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				85657.894736842,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				86131.5789473683,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"bf"
+					]
+				]
+			],
+			[
+				86368.4210526315,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			],
+			[
+				86605.2631578947,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"bf"
+					]
+				]
+			],
+			[
+				86723.6842105262,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"bf"
+					]
+				]
+			],
+			[
+				86763.1578947368,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "roommates1",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "freebase"
+	}
+}
