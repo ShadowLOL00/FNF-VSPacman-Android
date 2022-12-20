@@ -2789,7 +2789,7 @@ class PlayState extends MusicBeatState
 				  //if (Conductor.songPosition < -1000 && Conductor.songPosition > 0){
 				   // Conductor.songPosition = -1000;
 				  //}
-				 }
+				 };
 				Conductor.songPosition += FlxG.elapsed * 1000;
 					if (Conductor.songPosition >= 0)
 						startSong();
