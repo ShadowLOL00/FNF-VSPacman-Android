@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "schoolroof",
+		"player1": "bf",
+		"player2": "pacster",
+		"player3": null,
+		"events": [
+			[
+				92000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				97600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pacsterplay"
+					],
+					[
+						"Change Character",
+						"dad",
+						"skeebo"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"1"
+					]
+				]
+			],
+			[
+				135800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"0.3"
+					]
+				]
+			],
+			[
+				155200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pacster"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "ghostly"
+	}
+}
