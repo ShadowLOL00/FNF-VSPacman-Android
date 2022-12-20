@@ -40,12 +40,12 @@
            haxelib --quiet install hxcpp > /dev/null 
            haxelib --quiet install lime 
            haxelib --quiet install openfl 
-           haxelib --never install flixel 
+           haxelib --never install flixel 4.11.0
            haxelib run lime setup flixel 
            haxelib --quiet install flixel-tools 
-           haxelib --quiet install flixel-ui 
+           haxelib --quiet install flixel-ui 2.4.0
            haxelib --quiet install hscript 
-           haxelib --quiet install flixel-addons 
+           haxelib --quiet install flixel-addons 2.11.0 
            haxelib --quiet install hxCodec 
            haxelib git linc_luajit https://github.com/MAJigsaw77/linc_luajit.git --quiet 
            haxelib git extension-androidtools https://github.com/randomxdp/extension-androidtools.git --quiet 
